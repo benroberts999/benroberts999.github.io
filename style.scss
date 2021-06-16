@@ -271,17 +271,17 @@ nav {
   }
 }
 
-.pubs > .pub {
+.publications > .publication {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
 }
 
-.pubs > .pub:last-child {
+.publications > .publication:last-child {
   padding-bottom: 1em;
   border-bottom: none;
 }
 
-.pub {
+.publication {
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;

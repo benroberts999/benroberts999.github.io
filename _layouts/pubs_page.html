@@ -10,17 +10,17 @@ layout: default
     {{ content }}
   </div>
 
-  <div class="posts">
-    {% for pub in site.pubs %}
-      <article class="post">
+  <div class="publications">
+    {% for publication in site.publications %}
+      <article class="publication">
 
-        <h1><a href="{{ site.baseurl }}{{ pub.url }}">{{ pub.title }}</a></h1>
+        <h1><a href="{{ site.baseurl }}{{ publication.url }}">{{ publication.title }}</a></h1>
 
         <div class="entry">
-          {{ post.excerpt }}
+          {{ publication.excerpt }}
         </div>
 
-        <a href="{{ site.baseurl }}{{ pub.url }}" class="read-more">Read More</a>
+        <a href="{{ site.baseurl }}{{ publication.url }}" class="read-more">Read More</a>
       </article>
     {% endfor %}
   </div>
