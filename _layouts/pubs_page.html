@@ -28,7 +28,7 @@ layout: default
   <h2>OK</h2>
 
 
-  {% for pub in site.publications %}
+  {% for pub in site.publications reversed %}
   <article class="post">
 
     <h1><a href="{{ site.baseurl }}{{ pub.url }}">{{ pub.title }}</a></h1>
