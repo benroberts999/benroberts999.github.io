@@ -33,7 +33,6 @@ footer-links:
 
 collections:
   - publications
-    output: true
   # collections_dir: collections
 
 collections:
