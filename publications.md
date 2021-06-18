@@ -17,13 +17,5 @@ PhD in theoretical atomic physics from UNSW, Australia, in Sydney.
  * ORCiD: [orcid.org/0000-0002-0345-6375](https://orcid.org/0000-0002-0345-6375)
  * arXiv profile (all papers, free downloads): [arxiv.org/a/roberts_b_1](https://arxiv.org/a/roberts_b_1.html)
  * [UQ page](https://researchers.uq.edu.au/researcher/24237)
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
-
-A new line
-
-Another
-
-and again
+ * [CV (pdf)]({{ site.baseurl }}/cv/cv.pdf)
+ * [Publications (pdf)]({{ site.baseurl }}/cv/publications.pdf)
