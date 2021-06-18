@@ -1,5 +1,5 @@
 ---
-layout: pubs_page
+layout: research
 title: Research
 permalink: /research/
 ---

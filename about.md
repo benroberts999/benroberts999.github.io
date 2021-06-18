@@ -5,13 +5,11 @@ permalink: /about/
 ---
 
 
-<img align="right" width="50%" src="{{ site.baseurl }}/images/ben.jpg">
+<img align="right" width="50%" src="{{ site.baseurl }}/images/ben.jpg" border="5">
 
 **Benjamin M. Roberts,**
 _ARC DECRA Fellow, University of Queensland, Australia._
 Working in theoretical atomic physics and particle astrophysics.
-
-
 
 <!-- ![]({{ site.baseurl }}/images/ben.jpg) -->
 
