@@ -15,15 +15,17 @@ $$E_4=mc^2$$
 \[y = mx^2 + b\]
 
 The Uehling potential, which describes the vaccuum polarisation correction to the regular Coulomb atomic potential, is (in atomic units):
+
 $$
-\begin{align*}
+\begin{align}
 V_{vp}(r) &= \int_1^\infty {\rm d}t\, \frac{-2\,Z\alpha^2}{3\pi\,r}\frac{\sqrt{t^2+1}}{t^2}
 \left(1 + \frac{1}{2t^2}\right) e^{-2tr/\alpha}\\
 &\approx \int_1^{1/r} {\rm d}t\, \frac{-2\,Z\alpha^2}{3\pi\,r}\frac{\sqrt{t^2+1}}{t^2}
 \left(1 + \frac{1}{2t^2}\right) e^{-2tr/\alpha}\\
 \text{where}~~\alpha &\approx 1/137.036
-\end{align*}
+\end{align}
 $$
+
 The approximation in the second line is rough, but comes from fact that integrand becomes very small for t>r. This potential is largest at small r, where the electric field of the nucleus is extremely strong.
 
 $$
