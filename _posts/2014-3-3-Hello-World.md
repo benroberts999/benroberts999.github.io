@@ -12,7 +12,7 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 
 $$E_4=mc^2$$
 
-\[y = mx + b\]
+\[y = mx^2 + b\]
 
 The Uehling potential, which describes the vaccuum polarisation correction to the regular Coulomb atomic potential, is (in atomic units):
 $$

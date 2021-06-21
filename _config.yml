@@ -17,6 +17,8 @@ avatar: https://upload.wikimedia.org/wikipedia/commons/8/80/Atom_editor_logo.svg
 #
 # Flags below are optional
 #
+# Build settings
+markdown: kramdown
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -80,7 +82,8 @@ kramdown:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  # style: :expanded # You might prefer to minify using :compressed
+  style: :compressed # You might prefer to minify using :compressed
 
 # Use the following plug-ins
 gems:
