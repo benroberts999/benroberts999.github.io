@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-<img align="right" width="50%" src="{{ site.baseurl }}/images/ben.jpg" border="5">
+<img align="right" width="50%" src="{{ site.baseurl }}/images/ben.jpg" border="50">
 
 **Benjamin M. Roberts,**
 _ARC DECRA Fellow, University of Queensland, Australia._
