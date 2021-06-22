@@ -1,8 +1,12 @@
-# DAMNED - DArk Matter from Non Equal Delays New test of the fundamental constants variation
-
-_E. Savalle, B. M. Roberts, Florian Frank, Paul-Eric Pottie, Ben T. McAllister, C. Dailey, A. Derevianko, P. Wolf_
+---
+usemathjax: true
+layout: publication
+title: DAMNED - DArk Matter from Non Equal Delays New test of the fundamental constants variation
+---
 
 2019 Jt. Conf. IEEE Int. Freq. Control Symp. Eur. Freq. Time Forum (2019)
+
+_E. Savalle, B. M. Roberts, Florian Frank, Paul-Eric Pottie, Ben T. McAllister, C. Dailey, A. Derevianko, P. Wolf_
 
 [doi:10.1109/FCS.2019.8856056](http://dx.doi.org/10.1109/FCS.2019.8856056)
 

@@ -1,8 +1,12 @@
-# Search for transient variations of the fine structure constant and dark matter using fiber-linked optical atomic clocks
-
-_Benjamin M. Roberts, Pacome Delva, Ali Al-Masoudi, _et al.__
+---
+usemathjax: true
+layout: publication
+title: Search for transient variations of the fine structure constant and dark matter using fiber-linked optical atomic clocks
+---
 
 New J. Phys. *22*, 093010 (2020)
+
+_Benjamin M. Roberts, Pacome Delva, Ali Al-Masoudi, _et al.__
 
 [doi:10.1088/1367-2630/abaace](http://dx.doi.org/10.1088/1367-2630/abaace)
 

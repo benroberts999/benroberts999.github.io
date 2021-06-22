@@ -1,8 +1,12 @@
-# Applying the matched-filter technique to the search for dark matter transients with networks of quantum sensors
-
-_Guglielmo Panelli, B. M. Roberts, A. Derevianko_
+---
+usemathjax: true
+layout: publication
+title: Applying the matched-filter technique to the search for dark matter transients with networks of quantum sensors
+---
 
 EPJ Quantum Technol. *7*, 5 (2020)
+
+_Guglielmo Panelli, B. M. Roberts, A. Derevianko_
 
 [doi:10.1140/epjqt/s40507-020-00081-9](http://dx.doi.org/10.1140/epjqt/s40507-020-00081-9)
 

@@ -1,8 +1,12 @@
-# Revisiting Parity Nonconservation in Cesium
-
-_V. A. Dzuba, J. C. Berengut, V. V. Flambaum, B. M. Roberts_
+---
+usemathjax: true
+layout: publication
+title: Revisiting Parity Nonconservation in Cesium
+---
 
 Phys. Rev. Lett. *109*, 203003 (2012)
+
+_V. A. Dzuba, J. C. Berengut, V. V. Flambaum, B. M. Roberts_
 
 [doi:10.1103/PhysRevLett.109.203003](http://dx.doi.org/10.1103/PhysRevLett.109.203003)
 

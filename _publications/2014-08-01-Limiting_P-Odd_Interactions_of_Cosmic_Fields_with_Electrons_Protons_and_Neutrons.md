@@ -1,8 +1,12 @@
-# Limiting P-Odd Interactions of Cosmic Fields with Electrons, Protons, and Neutrons
-
-_B. M. Roberts, Y. V. Stadnik, V. A. Dzuba, V. V. Flambaum, N. Leefer, D. Budker_
+---
+usemathjax: true
+layout: publication
+title: Limiting P-Odd Interactions of Cosmic Fields with Electrons, Protons, and Neutrons
+---
 
 Phys. Rev. Lett. *113*, 081601 (2014)
+
+_B. M. Roberts, Y. V. Stadnik, V. A. Dzuba, V. V. Flambaum, N. Leefer, D. Budker_
 
 [doi:10.1103/PhysRevLett.113.081601](http://dx.doi.org/10.1103/PhysRevLett.113.081601)
 

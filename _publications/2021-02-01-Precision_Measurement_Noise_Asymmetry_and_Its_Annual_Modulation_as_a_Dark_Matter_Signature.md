@@ -1,8 +1,12 @@
-# Precision Measurement Noise Asymmetry and Its Annual Modulation as a Dark Matter Signature
-
-_Benjamin M. Roberts, Andrei Derevianko_
+---
+usemathjax: true
+layout: publication
+title: Precision Measurement Noise Asymmetry and Its Annual Modulation as a Dark Matter Signature
+---
 
 Universe *7*, 50 (2021)
+
+_Benjamin M. Roberts, Andrei Derevianko_
 
 [doi:10.3390/universe7030050](http://dx.doi.org/10.3390/universe7030050)
 

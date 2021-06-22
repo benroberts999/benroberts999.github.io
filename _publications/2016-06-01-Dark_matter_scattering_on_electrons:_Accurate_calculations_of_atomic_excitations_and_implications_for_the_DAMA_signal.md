@@ -1,8 +1,12 @@
-# Dark matter scattering on electrons: Accurate calculations of atomic excitations and implications for the DAMA signal
-
-_B. M. Roberts, V. A. Dzuba, V. V. Flambaum, M. Pospelov, Y. V. Stadnik_
+---
+usemathjax: true
+layout: publication
+title: Dark matter scattering on electrons: Accurate calculations of atomic excitations and implications for the DAMA signal
+---
 
 Phys. Rev. D *93*, 115037 (2016)
+
+_B. M. Roberts, V. A. Dzuba, V. V. Flambaum, M. Pospelov, Y. V. Stadnik_
 
 [doi:10.1103/PhysRevD.93.115037](http://dx.doi.org/10.1103/PhysRevD.93.115037)
 

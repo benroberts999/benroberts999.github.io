@@ -1,8 +1,12 @@
-# Search for transient ultralight dark matter signatures with networks of precision measurement devices using a Bayesian statistics method
-
-_B. M. Roberts, G. Blewitt, C. Dailey, A. Derevianko_
+---
+usemathjax: true
+layout: publication
+title: Search for transient ultralight dark matter signatures with networks of precision measurement devices using a Bayesian statistics method
+---
 
 Phys. Rev. D *97*, 083009 (2018)
+
+_B. M. Roberts, G. Blewitt, C. Dailey, A. Derevianko_
 
 [doi:10.1103/PhysRevD.97.083009](http://dx.doi.org/10.1103/PhysRevD.97.083009)
 

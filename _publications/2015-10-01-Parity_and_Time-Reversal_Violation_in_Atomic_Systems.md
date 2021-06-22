@@ -1,8 +1,12 @@
-# Parity and Time-Reversal Violation in Atomic Systems
-
-_B. M. Roberts, V. A. Dzuba, V. V. Flambaum_
+---
+usemathjax: true
+layout: publication
+title: Parity and Time-Reversal Violation in Atomic Systems
+---
 
 Annu. Rev. Nucl. Part. Sci. *65*, 63--86 (2015)
+
+_B. M. Roberts, V. A. Dzuba, V. V. Flambaum_
 
 [doi:10.1146/annurev-nucl-102014-022331](http://dx.doi.org/10.1146/annurev-nucl-102014-022331)
 

@@ -1,8 +1,12 @@
-# Double-core-polarization contribution to atomic parity-nonconservation and electric-dipole-moment calculations
-
-_B. M. Roberts, V. A. Dzuba, V. V. Flambaum_
+---
+usemathjax: true
+layout: publication
+title: Double-core-polarization contribution to atomic parity-nonconservation and electric-dipole-moment calculations
+---
 
 Phys. Rev. A *88*, 042507 (2013)
+
+_B. M. Roberts, V. A. Dzuba, V. V. Flambaum_
 
 [doi:10.1103/PhysRevA.88.042507](http://dx.doi.org/10.1103/PhysRevA.88.042507)
 

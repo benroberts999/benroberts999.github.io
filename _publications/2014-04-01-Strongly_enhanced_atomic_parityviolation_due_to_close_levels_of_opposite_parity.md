@@ -1,8 +1,12 @@
-# Strongly enhanced atomic parity violation due to close levels of opposite parity
-
-_B. M. Roberts, V. A. Dzuba, V. V. Flambaum_
+---
+usemathjax: true
+layout: publication
+title: Strongly enhanced atomic parity violation due to close levels of opposite parity
+---
 
 Phys. Rev. A *89*, 042509 (2014)
+
+_B. M. Roberts, V. A. Dzuba, V. V. Flambaum_
 
 [doi:10.1103/PhysRevA.89.042509](http://dx.doi.org/10.1103/PhysRevA.89.042509)
 

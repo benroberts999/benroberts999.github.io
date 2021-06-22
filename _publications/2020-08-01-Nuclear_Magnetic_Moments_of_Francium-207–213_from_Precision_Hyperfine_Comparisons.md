@@ -1,8 +1,12 @@
-# Nuclear Magnetic Moments of Francium-207–213 from Precision Hyperfine Comparisons
-
-_B. M. Roberts, J. S. M. Ginges_
+---
+usemathjax: true
+layout: publication
+title: Nuclear Magnetic Moments of Francium-207–213 from Precision Hyperfine Comparisons
+---
 
 Phys. Rev. Lett. *125*, 063002 (2020)
+
+_B. M. Roberts, J. S. M. Ginges_
 
 [doi:10.1103/PhysRevLett.125.063002](http://dx.doi.org/10.1103/PhysRevLett.125.063002)
 

@@ -1,8 +1,12 @@
-# The hyperfine anomaly in heavy atoms and its role in precision atomic searches for new physics
-
-_B. M. Roberts, J. S. M. Ginges_
+---
+usemathjax: true
+layout: publication
+title: The hyperfine anomaly in heavy atoms and its role in precision atomic searches for new physics
+---
 
 (2021)
+
+_B. M. Roberts, J. S. M. Ginges_
 
 
 

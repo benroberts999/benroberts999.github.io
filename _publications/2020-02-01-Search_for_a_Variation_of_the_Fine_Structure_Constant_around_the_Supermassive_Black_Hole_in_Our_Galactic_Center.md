@@ -1,8 +1,12 @@
-# Search for a Variation of the Fine Structure Constant around the Supermassive Black Hole in Our Galactic Center
-
-_A. Hees, T. Do, B. M. Roberts, _et al.__
+---
+usemathjax: true
+layout: publication
+title: Search for a Variation of the Fine Structure Constant around the Supermassive Black Hole in Our Galactic Center
+---
 
 Phys. Rev. Lett. *124*, 081101 (2020)
+
+_A. Hees, T. Do, B. M. Roberts, _et al.__
 
 [doi:10.1103/PhysRevLett.124.081101](http://dx.doi.org/10.1103/PhysRevLett.124.081101)
 

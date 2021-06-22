@@ -1,8 +1,12 @@
-# Quantum electrodynamics corrections to energies, transition amplitudes, and parity nonconservation in Rb, Cs, Ba^+, Tl, Fr, and Ra^+
-
-_B. M. Roberts, V. A. Dzuba, V. V. Flambaum_
+---
+usemathjax: true
+layout: publication
+title: Quantum electrodynamics corrections to energies, transition amplitudes, and parity nonconservation in Rb, Cs, Ba^+, Tl, Fr, and Ra^+
+---
 
 Phys. Rev. A *87*, 054502 (2013)
+
+_B. M. Roberts, V. A. Dzuba, V. V. Flambaum_
 
 [doi:10.1103/PhysRevA.87.054502](http://dx.doi.org/10.1103/PhysRevA.87.054502)
 

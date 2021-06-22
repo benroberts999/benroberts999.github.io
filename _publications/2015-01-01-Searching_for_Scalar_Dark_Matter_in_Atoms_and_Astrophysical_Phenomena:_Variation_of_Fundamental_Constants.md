@@ -1,8 +1,12 @@
-# Searching for Scalar Dark Matter in Atoms and Astrophysical Phenomena: Variation of Fundamental Constants
-
-_Y. V. Stadnik, B. M. Roberts, V. V. Flambaum, V. A. Dzuba_
+---
+usemathjax: true
+layout: publication
+title: Searching for Scalar Dark Matter in Atoms and Astrophysical Phenomena: Variation of Fundamental Constants
+---
 
 PATRAS Proc. (2015)
+
+_Y. V. Stadnik, B. M. Roberts, V. V. Flambaum, V. A. Dzuba_
 
 [doi:10.3204/DESY-PROC-2015-02/roberts_benjamin](http://dx.doi.org/10.3204/DESY-PROC-2015-02/roberts_benjamin)
 

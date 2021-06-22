@@ -1,8 +1,12 @@
-# Ionization of Atoms by Slow Heavy Particles, Including Dark Matter
-
-_B. M. Roberts, V. V. Flambaum, G. F. Gribakin_
+---
+usemathjax: true
+layout: publication
+title: Ionization of Atoms by Slow Heavy Particles, Including Dark Matter
+---
 
 Phys. Rev. Lett. *116*, 023201 (2016)
+
+_B. M. Roberts, V. V. Flambaum, G. F. Gribakin_
 
 [doi:10.1103/PhysRevLett.116.023201](http://dx.doi.org/10.1103/PhysRevLett.116.023201)
 

@@ -1,8 +1,12 @@
-# Search for domain wall dark matter with atomic clocks on board global positioning system satellites
-
-_B. M. Roberts, G. Blewitt, C. Dailey, M. Murphy, M. Pospelov, A. Rollings, J. Sherman, W. Williams, A. Derevianko_
+---
+usemathjax: true
+layout: publication
+title: Search for domain wall dark matter with atomic clocks on board global positioning system satellites
+---
 
 Nat. Commun. *8*, 1195 (2017)
+
+_B. M. Roberts, G. Blewitt, C. Dailey, M. Murphy, M. Pospelov, A. Rollings, J. Sherman, W. Williams, A. Derevianko_
 
 [doi:10.1038/s41467-017-01440-4](http://dx.doi.org/10.1038/s41467-017-01440-4)
 

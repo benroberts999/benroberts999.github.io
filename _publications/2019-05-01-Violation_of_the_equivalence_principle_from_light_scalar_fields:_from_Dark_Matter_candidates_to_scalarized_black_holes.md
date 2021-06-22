@@ -1,8 +1,12 @@
-# Violation of the equivalence principle from light scalar fields: from Dark Matter candidates to scalarized black holes
-
-_A. Hees, Olivier Minazzoli, Etienne Savalle, Y. V. Stadnik, P. Wolf, B. M. Roberts_
+---
+usemathjax: true
+layout: publication
+title: Violation of the equivalence principle from light scalar fields: from Dark Matter candidates to scalarized black holes
+---
 
 Rencontres de Moriond (2019)
+
+_A. Hees, Olivier Minazzoli, Etienne Savalle, Y. V. Stadnik, P. Wolf, B. M. Roberts_
 
 
 

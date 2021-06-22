@@ -1,8 +1,12 @@
-# Searching for Dark Matter with an Optical Cavity and an Unequal-Delay Interferometer
-
-_Etienne Savalle, Aur\'elien Hees, Florian Frank, Etienne Cantin, Paul-Eric Pottie, Benjamin M. Roberts, Lucie Cros, Ben T. McAllister, Peter Wolf_
+---
+usemathjax: true
+layout: publication
+title: Searching for Dark Matter with an Optical Cavity and an Unequal-Delay Interferometer
+---
 
 Phys. Rev. Lett. *126*, 051301 (2021)
+
+_Etienne Savalle, Aur\'elien Hees, Florian Frank, Etienne Cantin, Paul-Eric Pottie, Benjamin M. Roberts, Lucie Cros, Ben T. McAllister, Peter Wolf_
 
 [doi:10.1103/PhysRevLett.126.051301](http://dx.doi.org/10.1103/PhysRevLett.126.051301)
 

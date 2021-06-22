@@ -1,8 +1,12 @@
-# Parity-violating interactions of cosmic fields with atoms, molecules, and nuclei: Concepts and calculations for laboratory searches and extracting limits
-
-_B. M. Roberts, Y. V. Stadnik, V. A. Dzuba, V. V. Flambaum, N. Leefer, D. Budker_
+---
+usemathjax: true
+layout: publication
+title: Parity-violating interactions of cosmic fields with atoms, molecules, and nuclei: Concepts and calculations for laboratory searches and extracting limits
+---
 
 Phys. Rev. D *90*, 096005 (2014)
+
+_B. M. Roberts, Y. V. Stadnik, V. A. Dzuba, V. V. Flambaum, N. Leefer, D. Budker_
 
 [doi:10.1103/PhysRevD.90.096005](http://dx.doi.org/10.1103/PhysRevD.90.096005)
 

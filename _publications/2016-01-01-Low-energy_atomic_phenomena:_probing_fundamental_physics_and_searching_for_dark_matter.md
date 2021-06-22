@@ -1,8 +1,12 @@
-# Low-energy atomic phenomena: probing fundamental physics and searching for dark matter
-
-_B. M. Roberts_
+---
+usemathjax: true
+layout: publication
+title: Low-energy atomic phenomena: probing fundamental physics and searching for dark matter
+---
 
 PhD Thesis (2016)
+
+_B. M. Roberts_
 
 
 

@@ -1,8 +1,12 @@
-# Searching for Axion Dark Matter in Atoms: Oscillating Electric Dipole Moments and Spin-Precession Effects
-
-_B. M. Roberts, Y. V. Stadnik, V. V. Flambaum, V. A. Dzuba_
+---
+usemathjax: true
+layout: publication
+title: Searching for Axion Dark Matter in Atoms: Oscillating Electric Dipole Moments and Spin-Precession Effects
+---
 
 PATRAS Proc. (2015)
+
+_B. M. Roberts, Y. V. Stadnik, V. V. Flambaum, V. A. Dzuba_
 
 [doi:10.3204/DESY-PROC-2015-02/roberts_benjamin_axions](http://dx.doi.org/10.3204/DESY-PROC-2015-02/roberts_benjamin_axions)
 

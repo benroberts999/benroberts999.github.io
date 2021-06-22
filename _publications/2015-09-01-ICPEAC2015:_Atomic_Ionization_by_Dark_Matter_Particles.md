@@ -1,8 +1,12 @@
-# ICPEAC2015: Atomic Ionization by Dark Matter Particles
-
-_V. V. Flambaum, V. A. Dzuba, M. Pospelov, A. Derevianko, B. M. Roberts_
+---
+usemathjax: true
+layout: publication
+title: ICPEAC2015: Atomic Ionization by Dark Matter Particles
+---
 
 J. Phys. Conf. Ser. *635*, 022012 (2015)
+
+_V. V. Flambaum, V. A. Dzuba, M. Pospelov, A. Derevianko, B. M. Roberts_
 
 [doi:10.1088/1742-6596/635/2/022012](http://dx.doi.org/10.1088/1742-6596/635/2/022012)
 

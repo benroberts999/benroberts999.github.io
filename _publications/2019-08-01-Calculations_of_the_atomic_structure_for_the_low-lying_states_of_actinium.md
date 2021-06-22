@@ -1,8 +1,12 @@
-# Calculations of the atomic structure for the low-lying states of actinium
-
-_V. A. Dzuba, V. V. Flambaum, B. M. Roberts_
+---
+usemathjax: true
+layout: publication
+title: Calculations of the atomic structure for the low-lying states of actinium
+---
 
 Phys. Rev. A *100*, 022504 (2019)
+
+_V. A. Dzuba, V. V. Flambaum, B. M. Roberts_
 
 [doi:10.1103/PhysRevA.100.022504](http://dx.doi.org/10.1103/PhysRevA.100.022504)
 

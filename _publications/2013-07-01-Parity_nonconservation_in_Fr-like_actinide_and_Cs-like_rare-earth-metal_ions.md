@@ -1,8 +1,12 @@
-# Parity nonconservation in Fr-like actinide and Cs-like rare-earth-metal ions
-
-_B. M. Roberts, V. A. Dzuba, V. V. Flambaum_
+---
+usemathjax: true
+layout: publication
+title: Parity nonconservation in Fr-like actinide and Cs-like rare-earth-metal ions
+---
 
 Phys. Rev. A *88*, 012510 (2013)
+
+_B. M. Roberts, V. A. Dzuba, V. V. Flambaum_
 
 [doi:10.1103/PhysRevA.88.012510](http://dx.doi.org/10.1103/PhysRevA.88.012510)
 

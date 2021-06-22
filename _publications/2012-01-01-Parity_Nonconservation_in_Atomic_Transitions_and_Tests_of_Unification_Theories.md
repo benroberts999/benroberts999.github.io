@@ -1,8 +1,12 @@
-# Parity Nonconservation in Atomic Transitions and Tests of Unification Theories
-
-_B. M. Roberts_
+---
+usemathjax: true
+layout: publication
+title: Parity Nonconservation in Atomic Transitions and Tests of Unification Theories
+---
 
 Honours Thesis (2012)
+
+_B. M. Roberts_
 
 
 

@@ -1,8 +1,12 @@
-# Nuclear-spin-dependent parity nonconservation in s-d5/2 and s-d3/2 transitions
-
-_B. M. Roberts, V. A. Dzuba, V. V. Flambaum_
+---
+usemathjax: true
+layout: publication
+title: Nuclear-spin-dependent parity nonconservation in s-d5/2 and s-d3/2 transitions
+---
 
 Phys. Rev. A *89*, 012502 (2014)
+
+_B. M. Roberts, V. A. Dzuba, V. V. Flambaum_
 
 [doi:10.1103/PhysRevA.89.012502](http://dx.doi.org/10.1103/PhysRevA.89.012502)
 
