@@ -5,8 +5,9 @@ permalink: /teaching/
 ---
 
 ## [Computational Physics (Atomic Physics)]({{ site.baseurl }}/teaching/atomic/)
+  * PHYS4070/7270 (Advanced Computational Physics)
 
-## Computational Physics (Atomic Physics)
+<!-- ## Computational Physics (Atomic Physics)
   * PHYS4070/7270 (Advanced Computational Physics)
 
 **Lecture Notes:**
@@ -29,7 +30,7 @@ permalink: /teaching/
     * Good, lots of examples, beginner friendly
   * [cppreference.com/](https://en.cppreference.com/)
     * The standard resource, extremely thorough and detailed. Not very beginner-friendly however
-  * [Compiler Explorer](https://godbolt.org/)
+  * [Compiler Explorer](https://godbolt.org/) -->
 
 
 ## Introduction to quantum electrodynamics

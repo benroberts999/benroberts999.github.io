@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Teaching
+title: Computational Physics (Atomic Physics)
 permalink: /teaching/atomic/
 ---
 
-## Computational Physics (Atomic Physics)
   * PHYS4070/7270 (Advanced Computational Physics)
 
 **Lecture Notes:**
