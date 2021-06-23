@@ -1,10 +1,8 @@
 ---
 layout: page
 title: Teaching
-permalink: /teaching/
+permalink: /teaching/atomic/
 ---
-
-## [Computational Physics (Atomic Physics)]({{ site.baseurl }}/teaching/atomic/)
 
 ## Computational Physics (Atomic Physics)
   * PHYS4070/7270 (Advanced Computational Physics)
