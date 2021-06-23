@@ -4,14 +4,12 @@ layout: publication
 title: Dark matter scattering on electrons: Accurate calculations of atomic excitations and implications for the DAMA signal
 ---
 
-Phys. Rev. D **93**, 115037 (2016)
+B. M. Roberts, V. A. Dzuba, V. V. Flambaum, M. Pospelov, _et al._, [Phys. Rev. D **93**, 115037 (2016)](http://dx.doi.org/10.1103/PhysRevD.93.115037)
 
 [doi:10.1103/PhysRevD.93.115037](http://dx.doi.org/10.1103/PhysRevD.93.115037)
 
 [arXiv:1604.04559](http://arxiv.org/abs/1604.04559)
 
-_B. M. Roberts, V. A. Dzuba, V. V. Flambaum, M. Pospelov, Y. V. Stadnik_
-
-
 We revisit the WIMP-type dark matter scattering on electrons that results in atomic ionization, and can manifest itself in a variety of existing direct-detection experiments. Unlike the WIMP-nucleon scattering, where current experiments probe typical interaction strengths much smaller than the Fermi constant, the scattering on electrons requires a much stronger interaction to be detectable, which in turn requires new light force carriers. We account for such new forces explicitly, by introducing a mediator particle with scalar or vector couplings to dark matter and to electrons. We then perform state of the art numerical calculations of atomic ionization relevant to the existing experiments. Our goals are to consistently take into account the atomic physics aspect of the problem (e.g., the relativistic effects, which can be quite significant), and to scan the parameter space: the dark matter mass, the mediator mass, and the effective coupling strength, to see if there is any part of the parameter space that could potentially explain the DAMA modulation signal. While we find that the modulation fraction of all events with energy deposition above 2 keV in NaI can be quite significant, reaching $\sim$50%, the relevant parts of the parameter space are excluded by the XENON10 and XENON100 experiments.
 
+ * B. M. Roberts, V. A. Dzuba, V. V. Flambaum, M. Pospelov, Y. V. Stadnik, [Phys. Rev. D **93**, 115037 (2016)](http://dx.doi.org/10.1103/PhysRevD.93.115037)
