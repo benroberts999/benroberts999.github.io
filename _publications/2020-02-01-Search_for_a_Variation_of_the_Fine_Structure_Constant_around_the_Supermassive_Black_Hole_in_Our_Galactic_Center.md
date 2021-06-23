@@ -7,14 +7,14 @@ title: Search for a Variation of the Fine Structure Constant around the Supermas
 _A. Hees, T. Do, B. M. Roberts, Andrea M. Ghez, et al._, Phys. Rev. Lett. **124**, 081101 (2020)
 
  * Editors' Suggestion
- * Featured in _Physics_: [Constants Still Constant Near Black Holes](https://physics.aps.org/articles/v13/s28)
+ * Featured in _Physics Synopsis_: [Constants Still Constant Near Black Holes](https://physics.aps.org/articles/v13/s28)
 
 [doi:10.1103/PhysRevLett.124.081101](http://dx.doi.org/10.1103/PhysRevLett.124.081101)
 
 [arXiv:2002.11567](http://arxiv.org/abs/2002.11567)
 
 
-![]({{ site.baseurl }}/_publications/img/GalCen.png)
+![]({{ site.baseurl }}/images/GalCen.png)
 
 ![]({{ site.baseurl }}/images/ben.jpg)
 
