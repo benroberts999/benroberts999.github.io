@@ -8,8 +8,6 @@ Working in theoretical atomic physics and particle astrophysics. My research foc
 Previously at SYRTE, the Observatoire de Paris, France, working on possibilities for dark matter detection using high-precision atomic clocks, and the University of Nevada, Reno, as part of the GPS.DM Collaboration.
 PhD in theoretical atomic physics from UNSW, Australia, in Sydney.
 
-x
-
 ### Available projects at UQ (honours, PhD)
  * Dark matter induced atomic ionisation
  * High-accuracy atomic physics calculations
