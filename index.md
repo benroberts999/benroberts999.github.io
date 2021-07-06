@@ -11,7 +11,7 @@ PhD in theoretical atomic physics from UNSW, Australia, in Sydney.
 ### Links
  * ORCiD: [orcid.org/0000-0002-0345-6375](https://orcid.org/0000-0002-0345-6375)
  * arXiv profile (all papers, free downloads): [arxiv.org/a/roberts_b_1](https://arxiv.org/a/roberts_b_1.html)
- * [UQ page](https://researchers.uq.edu.au/researcher/24237)
+ * [UQ researcher page](https://researchers.uq.edu.au/researcher/24237)
  * GitHub: [github.com/benroberts999](https://github.com/benroberts999)
  * [Brief CV (pdf)]({{ site.baseurl }}/cv/cv.pdf)
  * [Full publications list (pdf)]({{ site.baseurl }}/cv/publications.pdf)
@@ -20,7 +20,7 @@ PhD in theoretical atomic physics from UNSW, Australia, in Sydney.
 
  * b.roberts [@] uq.edu.au
 
-<div class="posts">
+<!-- <div class="posts">
   {% for post in site.posts %}
     <article class="post">
 
@@ -33,9 +33,9 @@ PhD in theoretical atomic physics from UNSW, Australia, in Sydney.
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
-</div>
+</div> -->
 
-## Selected publication:
+## Selected publications:
 
 <div class="entry">
 {% for pub in site.publications reversed limit:5 %}
@@ -52,3 +52,23 @@ PhD in theoretical atomic physics from UNSW, Australia, in Sydney.
 {% endif %}
 {% endfor %}
 </div>
+
+[See more: /research:]({{ site.baseurl }}/research)
+
+## Recent posts:
+
+<div class="entry">
+{% for post in site.posts reversed limit:5 %}
+<article class="post">
+
+  <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+  <div class="entry">
+    {{ post.excerpt }}
+  </div>
+
+</article>
+{% endfor %}
+</div>
+
+[See more: /research:]({{ site.baseurl }}/research)
