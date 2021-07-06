@@ -1,7 +1,7 @@
 ---
 usemathjax: true
 layout: post
-title: Using linux from within windows: ubuntu bash, compiling c++, and more
+title: Using linux from within windows
 permalink: /posts/2018/11/wsl-coding-windows-ubuntu
 ---
 
@@ -11,6 +11,8 @@ the windows subsystem for linux (wsl).
 This essentially gives the best of both worlds - allowing you to (for
 example) use windows tools to manage and edit code, while still having
 full access to linux tools for compiling and running the code.
+
+# Using linux from within windows: ubuntu, bash, compiling c++ and more
 
 Note: this method is not actually using windows to compile or run the
 code (you are running linux from within windows) - so if you're trying
@@ -26,14 +28,14 @@ Jump to:
 
 -   [Some basics of using WSL](#some-basics-of-using-wsl)
 
--   [Using graphics forwarding, GUI programs](#using-graphics-forwarding,-gui-programs)
+-   [Using graphics forwarding, GUI programs](#using-graphics-forwarding-gui-programs)
 
--   [Compiling and running c++ (and other) code](#201811-cpp)
+-   [Compiling and running c++ (and other) code](#compiling-and-running-c-and-other-code)
 
 -   [Installing LAPACK, BLAS libraries, and GSL (GNU Scientific
-    Library), and using git](#201811-libs)
+    Library), and using git](#installing-libraries)
 
--   [Turn off the bell](#201811-nobell)
+-   [Turn off that **beep**ing bell](#turn-off-that-beeping-bell)
 
 
 
@@ -213,7 +215,7 @@ linux terminal, e.g.,
 Or you can use make, etc. etc.
 
 
-### Installing libraries {#installing-libraries style="white-space:pre-wrap;"}
+### Installing libraries
 
 In many cases you'll need to install some libraries that are needed by
 the code. For my code in particular, you'll need  LAPACK, BLAS, and the
@@ -248,7 +250,7 @@ version of windows studio to use wsl to compile + run the code).
 
 
 
-### Turn off that beeping bell!
+### Turn off that beeping bell
 
 Because whoever designed this is a *beep*ing sadist, it comes with an
 in-built "everything's OK" alarm, and beeps at you every time you do
