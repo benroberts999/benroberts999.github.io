@@ -37,7 +37,8 @@ PhD in theoretical atomic physics from UNSW, Australia, in Sydney.
 
 
 <div class="posts">
-  {% for post in site.publications %}
+  {% for post in site.publications reversed %}
+    {% if post.featured %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -48,5 +49,6 @@ PhD in theoretical atomic physics from UNSW, Australia, in Sydney.
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
+    {% endif %}
   {% endfor %}
 </div>
