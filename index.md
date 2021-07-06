@@ -37,18 +37,18 @@ PhD in theoretical atomic physics from UNSW, Australia, in Sydney.
 
 
 <div class="posts">
-{% for pub in site.publications reversed %}
-<!-- {% if page.featured %} -->
-<article class="post">
+  {% for post in site.posts %}
+    <article class="post">
 
-  <h1><a href="{{ site.baseurl }}{{ pub.url }}">{{ pub.title }}</a></h1>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-  <div class="entry">
-    {{ pub.excerpt }}
-  </div>
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
 
-  <!-- <a href="{{ site.baseurl }}{{ pub.url }}" class="read-more">...</a> -->
-</article>
-<!-- {% end if %} -->
-{% endfor %}
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
 </div>
+
+<!-- {% if page.featured %} -->
