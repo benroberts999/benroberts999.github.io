@@ -1,7 +1,7 @@
 ---
 usemathjax: true
 layout: post
-title: Using linux from within windows
+title: Using linux from within windows: ubuntu
 permalink: /posts/2018/11/wsl-coding-windows-ubuntu
 ---
 
