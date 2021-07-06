@@ -1,7 +1,7 @@
 ---
 usemathjax: true
 layout: post
-title: Using linux from within windows ubuntu
+title: "Using linux from within windows: ubuntu, bash, compiling c++ and more"
 permalink: /posts/2018/11/wsl-coding-windows-ubuntu
 ---
 
@@ -11,8 +11,6 @@ the windows subsystem for linux (wsl).
 This essentially gives the best of both worlds - allowing you to (for
 example) use windows tools to manage and edit code, while still having
 full access to linux tools for compiling and running the code.
-
-# Using linux from within windows: ubuntu, bash, compiling c++ and more
 
 Note: this method is not actually using windows to compile or run the
 code (you are running linux from within windows) - so if you're trying
