@@ -2,7 +2,7 @@
 usemathjax: true
 layout: post
 title: You're up and running!
-permalink: /posts/2018/11/:title.html
+permalink: /posts/2018/11/:title
 ---
 
 X
