@@ -20,7 +20,7 @@ If you just want to use and write code easily from within windows, and
 use linux tools to compile and run it, then this is the best and easiest
 solution I've found.
 
-Jump to:
+<!-- Jump to:
 
 -   [Installing WSL ubuntu bash on windows](#201811-GetWsl)
 
@@ -33,10 +33,10 @@ Jump to:
 -   [Installing LAPACK, BLAS libraries, and GSL (GNU Scientific
     Library), and using git](#201811-libs)
 
--   [Turn off the bell](#201811-nobell)
+-   [Turn off the bell](#201811-nobell) -->
 
 
-------------------------------------------------------------------------
+
 
 
 
@@ -89,8 +89,6 @@ bit out of date), and official documentation:
 -   <https://roberts999.com/posts/ubuntuonwindows>
 
 
-
-------------------------------------------------------------------------
 
 
 ## Some basics of using WSL
@@ -160,7 +158,7 @@ going to try, check these out first:
 
 
 
-------------------------------------------------------------------------
+
 
 ## Using graphics forwarding, GUI programs
 
@@ -201,7 +199,7 @@ Official gnuplot page: <http://www.gnuplot.info/>\
 however, you'll probably have more luck finding working examples on
 forums by googling specific questions.
 
-------------------------------------------------------------------------
+
 
 ## Compiling and running c++ (and other) code
 
@@ -237,9 +235,7 @@ To do a full install:
 Linear algebra libraries LAPACK, BLAS are used by GSL and others, so
 must also be installed (if not already). For a full installation:
 
-      ```
       $ sudo apt-get install libblas-dev libatlas-dev liblapack-dev
-      ```
 
 ### Using git
 
@@ -253,7 +249,7 @@ version of windows studio to use wsl to compile + run the code).
 
 
 
-------------------------------------------------------------------------
+
 
 
 ### Turn off that beeping bell!
