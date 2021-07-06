@@ -20,7 +20,7 @@ PhD in theoretical atomic physics from UNSW, Australia, in Sydney.
 
  * b.roberts [@] uq.edu.au
 
-<!-- <div class="posts">
+<div class="posts">
   {% for post in site.posts %}
     <article class="post">
 
@@ -33,4 +33,4 @@ PhD in theoretical atomic physics from UNSW, Australia, in Sydney.
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
-</div> -->
+</div>
