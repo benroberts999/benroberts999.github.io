@@ -35,6 +35,8 @@ PhD in theoretical atomic physics from UNSW, Australia, in Sydney.
   {% endfor %}
 </div> -->
 
+*********************************************************************
+
 ## Selected publications:
 
 <div class="entry">
@@ -55,6 +57,8 @@ PhD in theoretical atomic physics from UNSW, Australia, in Sydney.
 
 [See more: /research:]({{ site.baseurl }}/research)
 
+*********************************************************************
+
 ## Recent posts:
 
 <div class="entry">
@@ -71,4 +75,4 @@ PhD in theoretical atomic physics from UNSW, Australia, in Sydney.
 {% endfor %}
 </div>
 
-[See more: /research:]({{ site.baseurl }}/research)
+[See more: /posts:]({{ site.baseurl }}/posts)
