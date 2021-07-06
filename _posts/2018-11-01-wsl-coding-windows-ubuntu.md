@@ -1,9 +1,11 @@
 ---
 usemathjax: true
 layout: post
-title: Using linux from within windows: ubuntu bash, compiling c++, and more
+title: a title
 permalink: /posts/2018/11/wsl-coding-windows-ubuntu
 ---
+
+#Using linux from within windows: ubuntu bash, compiling c++, and more
 
 There are a few ways to install and run C++ (or any other programming
 languages) from windows. For me at least, the easiest by far is to use
@@ -22,7 +24,7 @@ solution I've found.
 
 Jump to:
 
--   [Installing WSL ubuntu bash on windows](#Installing-WSL-ubuntu-bash-on-windows)
+-   [Installing WSL ubuntu bash on windows](#installing-wsl-ubuntu-bash-on-windows)
 
 -   [Some basics of using WSL](#201811-use-wsl)
 
@@ -53,7 +55,6 @@ essentially a full version of ubuntu (unlike cygwin etc). There are many
 advantages of this, including have full access the the computers
 resources from both windows and wsl/bash.
 
-<!-- ![WSL.PNG](https://images.squarespace-cdn.com/content/v1/596270aa37c581e8446b0646/1547385490253-CPWP8YPLHEXLV96C07A7/WSL.PNG) -->
 <img align="right" width="50%" src="{{ site.baseurl }}/images/WSL.png" border="250">
 
 1.  Enable the windows subsystem for linux in windows features
