@@ -1,5 +1,6 @@
 ---
 usemathjax: true
+featured: true
 layout: publication
 title: Ionization of Atoms by Slow Heavy Particles, Including Dark Matter
 ---

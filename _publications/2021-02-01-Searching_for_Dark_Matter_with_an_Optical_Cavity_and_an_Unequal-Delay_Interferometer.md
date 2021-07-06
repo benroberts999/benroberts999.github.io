@@ -1,5 +1,6 @@
 ---
 usemathjax: true
+featured: true
 layout: publication
 title: Searching for Dark Matter with an Optical Cavity and an Unequal-Delay Interferometer
 ---

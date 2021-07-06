@@ -1,5 +1,6 @@
 ---
 usemathjax: true
+featured: true
 layout: publication
 title: Search for a Variation of the Fine Structure Constant around the Supermassive Black Hole in Our Galactic Center
 ---

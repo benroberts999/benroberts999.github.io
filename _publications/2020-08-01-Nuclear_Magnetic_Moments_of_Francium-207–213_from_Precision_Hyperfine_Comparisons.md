@@ -1,5 +1,6 @@
 ---
 usemathjax: true
+featured: true
 layout: publication
 title: Nuclear Magnetic Moments of Francium-207–213 from Precision Hyperfine Comparisons
 ---

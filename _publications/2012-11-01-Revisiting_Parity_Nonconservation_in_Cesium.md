@@ -1,5 +1,6 @@
 ---
 usemathjax: true
+featured: true
 layout: publication
 title: Revisiting Parity Nonconservation in Cesium
 ---

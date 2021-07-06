@@ -1,5 +1,6 @@
 ---
 usemathjax: true
+featured: true
 layout: publication
 title: Search for domain wall dark matter with atomic clocks on board global positioning system satellites
 ---

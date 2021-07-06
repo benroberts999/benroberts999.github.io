@@ -1,5 +1,6 @@
 ---
 usemathjax: true
+featured: true
 layout: publication
 title: Limiting P-Odd Interactions of Cosmic Fields with Electrons, Protons, and Neutrons
 ---
