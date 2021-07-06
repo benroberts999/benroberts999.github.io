@@ -1,7 +1,7 @@
 ---
 usemathjax: true
 layout: post
-title: You're up and running!
+title: Using linux from within windows: ubuntu bash, compiling c++, and more
 ---
 
 There are a few ways to install and run C++ (or any other programming
