@@ -7,7 +7,7 @@ permalink: /posts/2018/11/wsl-coding-windows-ubuntu
 
 There are a few ways to install and run C++ (or any other programming
 languages) from windows. For me at least, the easiest by far is to use
-the windows subsystem for linux (wsl).\
+the windows subsystem for linux (wsl).
 This essentially gives the best of both worlds - allowing you to (for
 example) use windows tools to manage and edit code, while still having
 full access to linux tools for compiling and running the code.
@@ -15,14 +15,14 @@ full access to linux tools for compiling and running the code.
 Note: this method is not actually using windows to compile or run the
 code (you are running linux from within windows) - so if you're trying
 to test your code to see if it will compile and run properly in windows,
-this is not for you.\
+this is not for you.
 If you just want to use and write code easily from within windows, and
 use linux tools to compile and run it, then this is the best and easiest
 solution I've found.
 
-<!-- Jump to:
+Jump to:
 
--   [Installing WSL ubuntu bash on windows](#201811-GetWsl)
+-   [Installing WSL ubuntu bash on windows](#Installing-WSL-ubuntu-bash-on-windows)
 
 -   [Some basics of using WSL](#201811-use-wsl)
 
@@ -33,10 +33,7 @@ solution I've found.
 -   [Installing LAPACK, BLAS libraries, and GSL (GNU Scientific
     Library), and using git](#201811-libs)
 
--   [Turn off the bell](#201811-nobell) -->
-
-
-
+-   [Turn off the bell](#201811-nobell)
 
 
 
