@@ -1,7 +1,8 @@
 ---
 usemathjax: true
 layout: publication
-title: Low-energy atomic phenomena: probing fundamental physics and searching for dark matter
+title: "Low-energy atomic phenomena: probing fundamental physics and searching for dark matter"
+permalink: /posts/phd-thesis
 ---
 
 B. M. Roberts, PhD Thesis, UNSW, (2016)

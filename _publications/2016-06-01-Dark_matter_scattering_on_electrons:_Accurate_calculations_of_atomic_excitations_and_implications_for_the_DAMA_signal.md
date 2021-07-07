@@ -1,7 +1,7 @@
 ---
 usemathjax: true
 layout: publication
-title: Dark matter scattering on electrons: Accurate calculations of atomic excitations and implications for the DAMA signal
+title: "Dark matter scattering on electrons: Accurate calculations of atomic excitations and implications for the DAMA signal"
 ---
 
 B. M. Roberts, V. A. Dzuba, V. V. Flambaum, M. Pospelov, _et al._, [Phys. Rev. D **93**, 115037 (2016)](http://dx.doi.org/10.1103/PhysRevD.93.115037)

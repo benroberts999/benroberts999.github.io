@@ -10,3 +10,7 @@ permalink: /teaching/
 
 ## [Introduction to Quantum Electrodynamics]({{ site.baseurl }}/teaching/qed/)
   * PHYS6004 (Advanced Quantum Field Theory)
+
+
+## Particle Astrophysics
+  * PHYS4080 (Frontiers in Astrophysics)

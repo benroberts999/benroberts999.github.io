@@ -5,7 +5,7 @@ layout: publication
 title: Search for a Variation of the Fine Structure Constant around the Supermassive Black Hole in Our Galactic Center
 ---
 
-A. Hees, T. Do, B. M. Roberts, A. M. Ghez, _et al._, [Phys. Rev. Lett. **124**, 081101 (2020)](http://dx.doi.org/10.1103/PhysRevLett.124.081101)
+A. Hees, T. Do, B. M. Roberts, Andrea M. Ghez, _et al._, [Phys. Rev. Lett. **124**, 081101 (2020)](http://dx.doi.org/10.1103/PhysRevLett.124.081101)
 
  * Editors' Suggestion
  * Featured in _APS Physics Synopsis_: [Constants Still Constant Near Black Holes](https://physics.aps.org/articles/v13/s28)
@@ -22,4 +22,4 @@ Searching for space-time variations of the constants of Nature is a promising wa
 \\(10^{-5}.\\)
 This is the first time a varying constant of Nature is searched for around a black hole and in a high gravitational potential. This analysis shows new ways the monitoring of stars in the Galactic Center can be used to probe fundamental physics.
 
- * A. Hees, T. Do, B. M. Roberts, A. M. Ghez, S. Nishiyama, R. O. Bentley, A. K. Gautam, S. Jia, T. Kara, J. R. Lu, H. Saida, S. Sakai, M. Takahashi, Y. Takamori, [Phys. Rev. Lett. **124**, 081101 (2020)](http://dx.doi.org/10.1103/PhysRevLett.124.081101)
+ * A. Hees, T. Do, B. M. Roberts, Andrea M. Ghez, S. Nishiyama, R. O. Bentley, A. K. Gautam, S. Jia, T. Kara, J. R. Lu, H. Saida, S. Sakai, M. Takahashi, Y. Takamori, [Phys. Rev. Lett. **124**, 081101 (2020)](http://dx.doi.org/10.1103/PhysRevLett.124.081101)

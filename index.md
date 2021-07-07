@@ -5,8 +5,9 @@ layout: page
 <img align="right" width="50%" src="{{ site.baseurl }}/images/ben.jpg" border="250">
 
 **_ARC DECRA Fellow, University of Queensland, Australia._**
-Working in theoretical atomic physics and particle astrophysics. Previously at SYRTE, the Observatoire de Paris, France, working on possibilities for dark matter detection using high-precision atomic clocks, and the University of Nevada, Reno, as part of the GPS.DM Collaboration.
-PhD in theoretical atomic physics from UNSW, Australia, in Sydney.
+Working in theoretical atomic physics and particle astrophysics. Previously at [SYRTE, the Observatoire de Paris]([SYRTE]), France, working on possibilities for dark matter detection using high-precision atomic clocks, and the University of Nevada, Reno, as part of the [GPS.DM]([GPSDM]) Collaboration.
+[PhD]([PHD])
+in theoretical atomic physics from UNSW, Australia, in Sydney.
 
 ### Links
  * ORCiD: [orcid.org/0000-0002-0345-6375](https://orcid.org/0000-0002-0345-6375)
@@ -15,25 +16,9 @@ PhD in theoretical atomic physics from UNSW, Australia, in Sydney.
  * GitHub: [github.com/benroberts999](https://github.com/benroberts999)
  * [Brief CV (pdf)]({{ site.baseurl }}/cv/cv.pdf)
  * [Full publications list (pdf)]({{ site.baseurl }}/cv/publications.pdf)
+ * Contact me: b.roberts [@] uq.edu.au
 
-### Contact me
 
- * b.roberts [@] uq.edu.au
-
-<!-- <div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div> -->
 
 &nbsp;
 
@@ -43,8 +28,7 @@ PhD in theoretical atomic physics from UNSW, Australia, in Sydney.
 
 <div class="entry">
 {% assign pubs = site.publications | reverse | where:'featured', true %}
-{% for pub in pubs limit:5 %}
-{% if pub.featured %}
+{% for pub in pubs limit:6 %}
 <article class="post">
 
   <h1><a href="{{ site.baseurl }}{{ pub.url }}">{{ pub.title }}</a></h1>
@@ -54,7 +38,6 @@ PhD in theoretical atomic physics from UNSW, Australia, in Sydney.
   </div>
 
 </article>
-{% endif %}
 {% endfor %}
 </div>
 
@@ -65,7 +48,8 @@ PhD in theoretical atomic physics from UNSW, Australia, in Sydney.
 ## Recent posts:
 
 <div class="entry">
-{% for post in site.posts limit:5 %}
+{% assign posts = site.posts | reverse %}
+{% for post in posts limit:3 %}
 <article class="post">
 
   <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -79,3 +63,8 @@ PhD in theoretical atomic physics from UNSW, Australia, in Sydney.
 </div>
 
 [See more: /posts:]({{ site.baseurl }}/posts)
+
+[UQ]: https://researchers.uq.edu.au/researcher/24237
+[SYRTE]: https://syrte.obspm.fr
+[GPSDM]: http://www.dereviankogroup.com/gps-dark-matter/
+[PHD]: {{ site.baseurl }}/posts/phd-thesis

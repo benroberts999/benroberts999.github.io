@@ -1,7 +1,7 @@
 ---
 usemathjax: true
 layout: publication
-title: Electron-interacting dark matter: Implications from DAMA/LIBRA-phase2 and prospects for liquid xenon detectors and NaI detectors
+title: "Electron-interacting dark matter: Implications from DAMA/LIBRA-phase2 and prospects for liquid xenon detectors and NaI detectors"
 ---
 
 B. M. Roberts, V. V. Flambaum, [Phys. Rev. D **100**, 063017 (2019)](http://dx.doi.org/10.1103/PhysRevD.100.063017)
