@@ -3,6 +3,7 @@ usemathjax: true
 layout: post
 title: "Using linux from within windows: ubuntu, bash, compiling c++ and more"
 permalink: /posts/2018/11/wsl-coding-windows-ubuntu
+comments: true
 ---
 
 There are a few ways to install and run C++ (or any other programming
