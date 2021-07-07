@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Photos
 permalink: /photos/
 images:
   - image_path: /photos/404.jpg
