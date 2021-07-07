@@ -7,6 +7,11 @@ title: Search for domain wall dark matter with atomic clocks on board global pos
 
 B. M. Roberts, G. Blewitt, C. Dailey, M. Murphy, _et al._, [Nature Commun. **8**, 1195 (2017)](http://dx.doi.org/10.1038/s41467-017-01440-4)
 
+ * Covered in Science: [_Hunting dark matter with GPS data_](https://www.sciencemag.org/news/2017/01/hunting-dark-matter-gps-data) (DOI: 10.1126/science.aal0676)
+ * Covered in Cosmos Magazine: [_GPS satellites “the largest dark matter detector ever built”_](https://cosmosmagazine.com/space/gps-satellites-the-largest-dark-matter-detector-ever-built)
+ * Covered in MIT Technology Review: [_Astrophysicists Turn GPS Satellite Constellation into Giant Dark Matter Detector_](https://www.technologyreview.com/s/604326/astrophysicists-turn-gps-satellite-constellation-into-giant-dark-matter-detector/)
+ * Also covered in: [NBC News](https://www.nbcnews.com/mach/science/search-dark-matter-just-took-big-step-forward-ncna817056),  [phys.org](https://phys.org/news/2017-11-closer-dark-gps-satellite-atomic.html),  [Futurism](https://futurism.com/one-step-closer-dark-matter/), and several other smaller outlets.
+
 [doi:10.1038/s41467-017-01440-4](http://dx.doi.org/10.1038/s41467-017-01440-4)
 
 [arXiv:1704.06844](http://arxiv.org/abs/1704.06844)
