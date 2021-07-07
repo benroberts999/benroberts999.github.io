@@ -70,12 +70,6 @@ images:
 <ul class="photo-gallery">
 <div id="wrap">
   {% for image in page.images %}
-  <!-- {% if image.big %}
-    <div class="bigbox">
-      <div class="innerContent">
-        <img width="100%" src="{{ image.image_path }}" alt="{{ image.title}}"/>
-      </div>
-    </div> -->
   {% if image.portrait %}
     <div class="longbox">
       <div class="innerContent">
@@ -93,7 +87,12 @@ images:
 </div>
 </ul>
 
-
+<!-- {% if image.big %}
+  <div class="bigbox">
+    <div class="innerContent">
+      <img width="100%" src="{{ image.image_path }}" alt="{{ image.title}}"/>
+    </div>
+  </div> -->
 <!-- <ul class="photo-gallery">
 <div id="wrap">
   {% for image in page.images %}
