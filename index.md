@@ -35,12 +35,14 @@ PhD in theoretical atomic physics from UNSW, Australia, in Sydney.
   {% endfor %}
 </div> -->
 
+" "
+
 *********************************************************************
 
 ## Selected publications:
 
 <div class="entry">
-{% for pub in site.publications limit:5 %}
+{% for pub in site.publications %}
 {% if pub.featured %}
 <article class="post">
 
