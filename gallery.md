@@ -13,10 +13,8 @@ new
 
 <style type="text/css">
 #box {
-   width: 25%;
-   padding-bottom: 25%;
-   background: #00F;
-   color: #FFF;
+   width: 33%;
+   padding-bottom: 33%;
    position: relative;
 }
 #innerContent {
@@ -36,8 +34,16 @@ new
 </ul> -->
 
 
-<div id="box">
-   <div id="innerContent">
-       Absolutely-positioned content isn't counted in the parent's height!
-   </div>
-</div>
+
+
+
+
+<ul class="photo-gallery">
+  {% for image in page.images %}
+  <div id="box">
+     <div id="innerContent">
+         <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
+     </div>
+  </div>
+  {% endfor %}
+</ul>
