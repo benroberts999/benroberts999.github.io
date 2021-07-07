@@ -29,6 +29,8 @@ images:
   - image_path: /photos/hawk.jpg
 ---
 
+ok
+
 <style type="text/css">
 #wrap {
   overflow: hidden;
@@ -62,7 +64,7 @@ images:
   {% if image.portrait %}
     <div class="longbox">
       <div class="innerContent">
-        <img height="100%" src="{{ image.image_path }}" alt="{{ image.title}}"/>
+        <img width="100%" src="{{ image.image_path }}" alt="{{ image.title}}"/>
       </div>
     </div>
   {% else %}
