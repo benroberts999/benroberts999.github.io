@@ -14,7 +14,7 @@ new
 <style type="text/css">
 #box {
    width: 33%;
-   padding-bottom: 33%;
+   padding-bottom: 50%;
    position: relative;
 }
 #innerContent {
@@ -23,7 +23,6 @@ new
    right: 10px;
    top: 10px;
    bottom: 10px;
-   background: #66F;
 }
 </style>
 
