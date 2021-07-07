@@ -86,25 +86,3 @@ images:
   {% endfor %}
 </div>
 </ul>
-
-<!-- {% if image.big %}
-  <div class="bigbox">
-    <div class="innerContent">
-      <img width="100%" src="{{ image.image_path }}" alt="{{ image.title}}"/>
-    </div>
-  </div> -->
-<!-- <ul class="photo-gallery">
-<div id="wrap">
-  {% for image in page.images %}
-  <div class="box">
-    <div class="innerContent">
-      {% if image.portrait %}
-      <img height="100%" src="{{ image.image_path }}" alt="{{ image.title}}"/>
-      {% else %}
-      <img width="100%" src="{{ image.image_path }}" alt="{{ image.title}}"/>
-      {% endif %}
-    </div>
-  </div>
-  {% endfor %}
-</div>
-</ul> -->
