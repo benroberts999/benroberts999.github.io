@@ -3,30 +3,39 @@ layout: page
 title: Photos
 permalink: /photos/
 images:
-  - image_path: /photos/IMG_3413-Edit.jpg
+  - image_path: /photos/tawny.jpg
     portrait: true
     title: Tawney Frogmouth
-  - image_path: /photos/IMG_5482-Edit.jpg
+  - image_path: /photos/wagtail.jpg
     title: Willie Wagtail
-  - image_path: /photos/404.jpg
-    title: Apple Pie
-  - image_path: /photos/ben.jpg
-    title: Birthday Cake
-  - image_path: /photos/ben.jpg
-    title: ben2
-  - image_path: /photos/404.jpg
-    title: ben3
+  - image_path: /photos/butterfly.jpg
+  - image_path: /photos/femalefairywren.jpg
+  - image_path: /photos/landscape.jpg
+  - image_path: /photos/spider.jpg
+  - image_path: /photos/malefairywren.jpg
+  - image_path: /photos/blackcockatoo.jpg
+  - image_path: /photos/bats.jpg
+  - image_path: /photos/kook.jpg
+  - image_path: /photos/heron.jpg
+  - image_path: /photos/darter.jpg
+  - image_path: /photos/bee.jpg
+  - image_path: /photos/owl.jpg
+  - image_path: /photos/marmot.jpg
+  - image_path: /photos/magpie.jpg
+  - image_path: /photos/flicker.jpg
+  - image_path: /photos/blackbord.jpg
+  - image_path: /photos/moth.jpg
+  - image_path: /photos/rock.jpg
+  - image_path: /photos/hawk.jpg
 ---
-
-each
 
 <style type="text/css">
 #wrap {
   overflow: hidden;
 }
 .box {
-  width: 50%;
-  padding-bottom: 50%;
+  width: 60%;
+  padding-bottom: 60%;
   position: relative;
   float: left;
 }
