@@ -2,11 +2,14 @@
 layout: page
 ---
 
-<img align="right" width="50%" src="{{ site.baseurl }}/images/ben.jpg" border="250">
+<img align="right" width="40%" src="{{ site.baseurl }}/images/ben.jpg" border="250">
 
 **_ARC DECRA Fellow, University of Queensland, Australia._**
-Working in theoretical atomic physics and particle astrophysics. Previously at [SYRTE, the Observatoire de Paris]([SYRTE]), France, working on possibilities for dark matter detection using high-precision atomic clocks, and the University of Nevada, Reno, as part of the [GPS.DM]([GPSDM]) Collaboration.
-[PhD]([PHD])
+Working in theoretical atomic physics and particle astrophysics. Previously at
+[SYRTE, the Observatoire de Paris](https://syrte.obspm.fr),
+France, working on possibilities for dark matter detection using high-precision atomic clocks, and the University of Nevada, Reno, as part of the
+[GPS.DM](http://www.dereviankogroup.com/gps-dark-matter/) Collaboration.
+[PhD]({{ site.baseurl }}/posts/phd-thesis)
 in theoretical atomic physics from UNSW, Australia, in Sydney.
 
 ### Links
@@ -63,8 +66,3 @@ in theoretical atomic physics from UNSW, Australia, in Sydney.
 </div>
 
 [See more: /posts:]({{ site.baseurl }}/posts)
-
-[UQ]: https://researchers.uq.edu.au/researcher/24237
-[SYRTE]: https://syrte.obspm.fr
-[GPSDM]: http://www.dereviankogroup.com/gps-dark-matter/
-[PHD]: {{ site.baseurl }}/posts/phd-thesis
