@@ -42,11 +42,9 @@ PhD in theoretical atomic physics from UNSW, Australia, in Sydney.
 ## Selected publications:
 
 <div class="entry">
-{% $count: 0 %}
-{% for pub in site.publications %}
+{% assign pubs = site.publications | where:'featured', true %}
+{% for pub in pubs %}
 {% if pub.featured %}
-{% if $count<6 %}
-{% $count: = $count+1 %}
 <article class="post">
 
   <h1><a href="{{ site.baseurl }}{{ pub.url }}">{{ pub.title }}</a></h1>
@@ -56,7 +54,6 @@ PhD in theoretical atomic physics from UNSW, Australia, in Sydney.
   </div>
 
 </article>
-{% endif %}
 {% endif %}
 {% endfor %}
 </div>
