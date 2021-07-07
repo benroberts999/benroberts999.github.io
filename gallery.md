@@ -9,7 +9,7 @@ images:
     title: Birthday Cake
 ---
 
-new2
+new3
 
 <style type="text/css">
 #wrap {
@@ -43,10 +43,10 @@ new2
 <ul class="photo-gallery">
 <div id="wrap">
   {% for image in page.images %}
-  <div id="box">
-     <div id="innerContent">
-         <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
-     </div>
+  <div class="box">
+    <div class="innerContent">
+      <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
+    </div>
   </div>
   {% endfor %}
 </div>
