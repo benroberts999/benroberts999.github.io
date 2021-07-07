@@ -46,7 +46,7 @@ images:
 }
 .longbox {
   width: 50%;
-  padding-bottom: 67%;
+  padding-bottom: 85%;
   position: relative;
   float: left;
 }
