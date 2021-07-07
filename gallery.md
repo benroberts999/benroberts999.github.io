@@ -9,7 +9,7 @@ images:
     title: Birthday Cake
 ---
 
-new
+new2
 
 <style type="text/css">
 #wrap {
