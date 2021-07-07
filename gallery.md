@@ -17,7 +17,7 @@ images:
     title: ben3
 ---
 
-width
+height
 
 <style type="text/css">
 #wrap {
@@ -53,7 +53,7 @@ width
   {% for image in page.images %}
   <div class="box">
     <div class="innerContent">
-      <img width="100%" src="{{ image.image_path }}" alt="{{ image.title}}"/>
+      <img height="100%" src="{{ image.image_path }}" alt="{{ image.title}}"/>
     </div>
   </div>
   {% endfor %}
