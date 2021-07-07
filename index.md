@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img align="right" width="40%" src="{{ site.baseurl }}/images/ben.jpg" border="250">
+<img align="right" width="45%" src="{{ site.baseurl }}/images/ben.jpg" border="500">
 
 **_ARC DECRA Fellow, University of Queensland, Australia._**
 Working in theoretical atomic physics and particle astrophysics. Previously at
