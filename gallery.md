@@ -11,6 +11,7 @@ images:
   - image_path: /photos/butterfly.jpg
   - image_path: /photos/femalefairywren.jpg
   - image_path: /photos/landscape.jpg
+    big: true
   - image_path: /photos/spider.jpg
     portrait: true
   - image_path: /photos/malefairywren.jpg
@@ -45,6 +46,12 @@ images:
 }
 .longbox {
   width: 50%;
+  padding-bottom: 67%;
+  position: relative;
+  float: left;
+}
+.bigbox {
+  width: 100%;
   padding-bottom: 100%;
   position: relative;
   float: left;
@@ -63,7 +70,13 @@ images:
 <ul class="photo-gallery">
 <div id="wrap">
   {% for image in page.images %}
-  {% if image.portrait %}
+  {% if image.big %}
+    <div class="bigbox">
+      <div class="innerContent">
+        <img width="100%" src="{{ image.image_path }}" alt="{{ image.title}}"/>
+      </div>
+    </div>
+  {% else if image.portrait %}
     <div class="longbox">
       <div class="innerContent">
         <img width="100%" src="{{ image.image_path }}" alt="{{ image.title}}"/>
