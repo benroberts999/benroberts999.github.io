@@ -51,7 +51,7 @@ in theoretical atomic physics from UNSW, Australia, in Sydney.
 ## Recent posts:
 
 <div class="entry">
-{% assign posts = site.posts | reverse %}
+{% assign posts = site.posts %}
 {% for post in posts limit:3 %}
 <article class="post">
 
