@@ -17,6 +17,8 @@ images:
     title: ben3
 ---
 
+width
+
 <style type="text/css">
 #wrap {
   overflow: hidden;
@@ -51,7 +53,7 @@ images:
   {% for image in page.images %}
   <div class="box">
     <div class="innerContent">
-      <img src="{{ image.image_path }}" alt="{{ image.title}}"/>
+      <img width="100%" src="{{ image.image_path }}" alt="{{ image.title}}"/>
     </div>
   </div>
   {% endfor %}
