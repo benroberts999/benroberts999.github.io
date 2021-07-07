@@ -41,7 +41,7 @@ images:
 }
 .longbox {
   width: 50%;
-  padding-bottom: 125%;
+  padding-bottom: 100%;
   position: relative;
   float: left;
 }
@@ -62,7 +62,7 @@ images:
   {% if image.portrait %}
     <div class="longbox">
       <div class="innerContent">
-        <img width="100%" src="{{ image.image_path }}" alt="{{ image.title}}"/>
+        <img height="100%" src="{{ image.image_path }}" alt="{{ image.title}}"/>
       </div>
     </div>
   {% else %}
