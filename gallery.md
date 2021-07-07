@@ -12,7 +12,9 @@ images:
   - image_path: /photos/femalefairywren.jpg
   - image_path: /photos/landscape.jpg
   - image_path: /photos/spider.jpg
+    portrait: true
   - image_path: /photos/malefairywren.jpg
+    portrait: true
   - image_path: /photos/blackcockatoo.jpg
   - image_path: /photos/bats.jpg
   - image_path: /photos/kook.jpg
@@ -23,13 +25,13 @@ images:
   - image_path: /photos/marmot.jpg
   - image_path: /photos/magpie.jpg
   - image_path: /photos/flicker.jpg
-  - image_path: /photos/blackbord.jpg
+  - image_path: /photos/blackbird.jpg
+    portrait: true
   - image_path: /photos/moth.jpg
   - image_path: /photos/rock.jpg
   - image_path: /photos/hawk.jpg
+    portrait: true
 ---
-
-ok
 
 <style type="text/css">
 #wrap {
