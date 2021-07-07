@@ -10,10 +10,10 @@ images:
   - image_path: /photos/ben.jpg
     title: ben2
   - image_path: /photos/404.jpg
-    title: ben3 
+    title: ben3
 ---
 
-new5
+new6
 
 <style type="text/css">
 #wrap {
@@ -21,7 +21,7 @@ new5
 }
 .box {
   width: 50%;
-  padding-bottom: 100%;
+  padding-bottom: 50%;
   position: relative;
   float: left;
 }
