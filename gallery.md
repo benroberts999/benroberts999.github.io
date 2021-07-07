@@ -7,9 +7,13 @@ images:
     title: Apple Pie
   - image_path: /photos/ben.jpg
     title: Birthday Cake
+  - image_path: /photos/ben.jpg
+    title: ben2
+  - image_path: /photos/404.jpg
+    title: ben3 
 ---
 
-new4
+new5
 
 <style type="text/css">
 #wrap {
@@ -45,7 +49,7 @@ new4
   {% for image in page.images %}
   <div class="box">
     <div class="innerContent">
-      <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
+      <img src="{{ image.image_path }}" alt="{{ image.title}}"/>
     </div>
   </div>
   {% endfor %}
