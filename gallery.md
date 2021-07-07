@@ -9,18 +9,8 @@ images:
     title: Birthday Cake
 ---
 
-<ul class="photo-gallery">
-  {% for image in page.images %}
-    <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
-  {% endfor %}
-</ul>
+new
 
-
-<div id="box">
-   <div id="innerContent">
-       Absolutely-positioned content isn't counted in the parent's height!
-   </div>
-</div>
 <style type="text/css">
 #box {
    width: 25%;
@@ -38,3 +28,16 @@ images:
    background: #66F;
 }
 </style>
+
+<!-- <ul class="photo-gallery">
+  {% for image in page.images %}
+    <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
+  {% endfor %}
+</ul> -->
+
+
+<div id="box">
+   <div id="innerContent">
+       Absolutely-positioned content isn't counted in the parent's height!
+   </div>
+</div>
