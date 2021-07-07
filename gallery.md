@@ -9,7 +9,7 @@ images:
     title: Birthday Cake
 ---
 
-new3
+new4
 
 <style type="text/css">
 #wrap {
@@ -17,7 +17,7 @@ new3
 }
 .box {
   width: 50%;
-  padding-bottom: 10%;
+  padding-bottom: 100%;
   position: relative;
   float: left;
 }
