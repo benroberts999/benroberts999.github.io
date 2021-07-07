@@ -3,6 +3,10 @@ layout: page
 title: Photos
 permalink: /photos/
 images:
+  - image_path: /photos/IMG_3413-Edit.jpg
+    title: Tawney Frogmouth
+  - image_path: /photos/IMG_5482-Edit.jpg
+    title: Willie Wagtail
   - image_path: /photos/404.jpg
     title: Apple Pie
   - image_path: /photos/ben.jpg
@@ -12,8 +16,6 @@ images:
   - image_path: /photos/404.jpg
     title: ben3
 ---
-
-new6
 
 <style type="text/css">
 #wrap {
