@@ -12,17 +12,22 @@ images:
 new
 
 <style type="text/css">
-#box {
-   width: 33%;
-   padding-bottom: 50%;
-   position: relative;
+#wrap {
+  overflow: hidden;
 }
-#innerContent {
-   position: absolute;
-   left: 10px;
-   right: 10px;
-   top: 10px;
-   bottom: 10px;
+.box {
+  width: 50%;
+  padding-bottom: 10%;
+  position: relative;
+  float: left;
+}
+.innerContent {
+  position: absolute;
+  left: 1px;
+  right: 1px;
+  top: 1px;
+  bottom: 1px;
+  padding: 10px;
 }
 </style>
 
@@ -35,9 +40,8 @@ new
 
 
 
-
-
 <ul class="photo-gallery">
+<div id="wrap">
   {% for image in page.images %}
   <div id="box">
      <div id="innerContent">
@@ -45,4 +49,5 @@ new
      </div>
   </div>
   {% endfor %}
+</div>
 </ul>
