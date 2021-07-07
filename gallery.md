@@ -34,8 +34,14 @@ images:
   overflow: hidden;
 }
 .box {
-  width: 60%;
-  padding-bottom: 60%;
+  width: 50%;
+  padding-bottom: 50%;
+  position: relative;
+  float: left;
+}
+.longbox {
+  width: 50%;
+  padding-bottom: 125%;
   position: relative;
   float: left;
 }
@@ -48,14 +54,6 @@ images:
   padding: 10px;
 }
 </style>
-
-<!-- <ul class="photo-gallery">
-  {% for image in page.images %}
-    <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
-  {% endfor %}
-</ul> -->
-
-
 
 
 <ul class="photo-gallery">
