@@ -4,6 +4,7 @@ title: Photos
 permalink: /photos/
 images:
   - image_path: /photos/IMG_3413-Edit.jpg
+    portrait: true
     title: Tawney Frogmouth
   - image_path: /photos/IMG_5482-Edit.jpg
     title: Willie Wagtail
@@ -17,7 +18,7 @@ images:
     title: ben3
 ---
 
-height
+each
 
 <style type="text/css">
 #wrap {
@@ -53,7 +54,11 @@ height
   {% for image in page.images %}
   <div class="box">
     <div class="innerContent">
+      {% if image.portrait %}
       <img height="100%" src="{{ image.image_path }}" alt="{{ image.title}}"/>
+      {% else %}
+      <img width="100%" src="{{ image.image_path }}" alt="{{ image.title}}"/>
+      {% endif %}
     </div>
   </div>
   {% endfor %}
