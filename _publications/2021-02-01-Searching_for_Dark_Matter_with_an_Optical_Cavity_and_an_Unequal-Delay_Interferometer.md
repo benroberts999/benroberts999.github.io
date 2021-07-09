@@ -3,6 +3,7 @@ usemathjax: true
 featured: true
 layout: publication
 title: Searching for Dark Matter with an Optical Cavity and an Unequal-Delay Interferometer
+slug: prl-damned
 ---
 
 Etienne Savalle, Aurelien Hees, Florian Frank, Etienne Cantin, _et al._, [Phys. Rev. Lett. **126**, 051301 (2021)](http://dx.doi.org/10.1103/PhysRevLett.126.051301)

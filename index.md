@@ -34,8 +34,7 @@ in theoretical atomic physics from UNSW, Australia, in Sydney.
 {% for pub in pubs limit:6 %}
 <article class="post">
 
-  <h1><a href="{{ site.baseurl }}{{ pub.url }}">{{ pub.title }}</a></h1>
-
+  <h2><a href="{{ site.baseurl }}{{ pub.url }}">{{ pub.title }}</a></h2>
   <div class="entry">
     {{ pub.excerpt }}
   </div>
@@ -55,8 +54,7 @@ in theoretical atomic physics from UNSW, Australia, in Sydney.
 {% for post in posts limit:3 %}
 <article class="post">
 
-  <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
+  <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
   <div class="entry">
     {{ post.excerpt }}
   </div>
