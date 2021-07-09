@@ -19,8 +19,8 @@ Working in theoretical atomic physics and particle astrophysics. My research foc
  * [Google Scholar profile](https://scholar.google.com.au/citations?user=5i5bTuwAAAAJ)
  * [InspireHEP: B.M.Roberts.1](http://inspirehep.net/author/profile/B.M.Roberts.1)
  * [UQ page](https://researchers.uq.edu.au/researcher/24237)
- * [Brief CV (pdf)]({{ site.baseurl }}/cv/cv.pdf)
- * [Full publications list (pdf)]({{ site.baseurl }}/cv/publications.pdf)
+ * [Brief CV (pdf)]({{ site.baseurl }}/docs/cv.pdf)
+ * [Full publications list (pdf)]({{ site.baseurl }}/docs/publications.pdf)
 
 
 # Recent publications:

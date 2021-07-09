@@ -17,8 +17,8 @@ in theoretical atomic physics from UNSW, Australia, in Sydney.
  * arXiv profile (all papers, free downloads): [arxiv.org/a/roberts_b_1](https://arxiv.org/a/roberts_b_1.html)
  * [UQ researcher page](https://researchers.uq.edu.au/researcher/24237)
  * GitHub: [github.com/benroberts999](https://github.com/benroberts999)
- * [Brief CV (pdf)]({{ site.baseurl }}/cv/cv.pdf)
- * [Full publications list (pdf)]({{ site.baseurl }}/cv/publications.pdf)
+ * [Brief CV (pdf)]({{ site.baseurl }}/docs/cv.pdf)
+ * [Full publications list (pdf)]({{ site.baseurl }}/docs/publications.pdf)
  * Contact me: b.roberts [@] uq.edu.au
 
 

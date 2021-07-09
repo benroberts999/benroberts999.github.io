@@ -38,10 +38,14 @@ footer-links:
 
 collections:
   - publications
+  - presentations
   # collections_dir: collections
 
 collections:
   publications:
+    output: true
+    permalink: /:year/:title/
+  presentations:
     output: true
     permalink: /:year/:title/
 
