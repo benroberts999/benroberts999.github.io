@@ -44,10 +44,10 @@ collections:
 collections:
   publications:
     output: true
-    permalink: /:year/:title/
+    permalink: /pubs/:year/:slug/
   presentations:
-    output: false
-    permalink: /:year/:title/
+    output: true
+    permalink: /slides/:year/:slug/
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
