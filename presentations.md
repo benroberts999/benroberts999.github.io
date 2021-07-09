@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conferences & Presentations
-permalink: /slides/
+permalink: /talks/
 ---
 
 
