@@ -1,5 +1,0 @@
----
-title: "Other title"
-conference: Other Coference, July 2017
-host: Perimeter Institute for Theoretical Physics, Canada
----
