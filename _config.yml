@@ -46,7 +46,7 @@ collections:
     output: true
     permalink: /:year/:title/
   presentations:
-    output: true
+    output: false
     permalink: /:year/:title/
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
