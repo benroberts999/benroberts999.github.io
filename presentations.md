@@ -4,10 +4,9 @@ title: Conferences & Presentations
 permalink: /talks/
 ---
 
-Test
+Test 2
 
 {% for pres in site.presentations reversed %}
- <article class="post">
 
    * **{{ pres.title }}**
   <!-- <h4>{{ pres.conference }}. {{ pres.host }}. {{ pres.content }}<h4> -->
