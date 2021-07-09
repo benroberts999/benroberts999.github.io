@@ -8,11 +8,11 @@ permalink: /talks/
 {% for pres in site.presentations reversed %}
  <article class="post">
 
-   <h2>{{ pub.title }}</h2>
+   <h2>{{ pres.title }}</h2>
    <div class="entry">
-     <h3>{{ pub.conference }}<h3>
-     <h4>{{ pub.host }}<h4>
-     {{ pub.content }}
+     <h3>{{ pres.conference }}<h3>
+     <h4>{{ pres.host }}<h4>
+     {{ pres.content }}
    </div>
 
  </article>
