@@ -12,6 +12,7 @@ Research in theoretical atomic physics and particle astrophysics. My work focuss
  * For more details, see: [https://researchers.uq.edu.au/researcher/24237](https://researchers.uq.edu.au/researcher/24237)
  * Other projects may be available, contact me with any questions
 
+
 ### Links
  * ORCiD: [orcid.org/0000-0002-0345-6375](https://orcid.org/0000-0002-0345-6375)
  * arXiv profile (all papers, free downloads): [arxiv.org/a/roberts_b_1](https://arxiv.org/a/roberts_b_1.html)
@@ -21,6 +22,8 @@ Research in theoretical atomic physics and particle astrophysics. My work focuss
  * [Brief CV (pdf)]({{ site.baseurl }}/docs/cv.pdf)
  * [Full publications list (pdf)]({{ site.baseurl }}/docs/publications.pdf)
 
+
+Slides from most of my recent conference presentations can be found [here]({{ site.baseurl }}/talks)
 
 # Recent publications:
 
