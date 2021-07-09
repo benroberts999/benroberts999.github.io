@@ -1,7 +1,7 @@
 ---
 usemathjax: true
 layout: post
-title: Strong typing in c++ -- a simple example
+title: Strong typing in c++ — a simple example
 comments: true
 ---
 

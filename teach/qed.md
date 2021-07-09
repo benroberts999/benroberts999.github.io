@@ -15,7 +15,7 @@ Finally, a semi-relativistic treatment of the Lamb shift is given (following pap
   * 01: [Dirac theory: recap]({{ site.baseurl }}/teach/qed/01-DiracRecap.pdf)
   * 02: [QED overview, Feynman rules]({{ site.baseurl }}/teach/qed/02-QuantisationQED.pdf)
   * 03: [Semi-relativistic treatment of Lamb shift, renormalisation]({{ site.baseurl }}/teach/qed/03-LambShift.pdf)
-  * Note: some typos, sign mistakes -- will be fixed "soon"
+  * Note: some typos, sign mistakes — will be fixed "soon"
 
 **Texts:**
  * Peskin & Schroeder, _An Introduction To Quantum Field Theory_

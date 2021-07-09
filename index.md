@@ -27,7 +27,7 @@ in theoretical atomic physics from UNSW, Australia, in Sydney.
 
 *********************************************************************
 
-## Selected publications:
+# Selected publications:
 
 <div class="entry">
 {% assign pubs = site.publications | reverse | where:'featured', true %}
@@ -47,7 +47,7 @@ in theoretical atomic physics from UNSW, Australia, in Sydney.
 
 *********************************************************************
 
-## Recent posts:
+# Recent posts:
 
 <div class="entry">
 {% assign posts = site.posts %}
