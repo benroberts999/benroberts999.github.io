@@ -4,7 +4,7 @@ title: Conferences & Presentations
 permalink: /talks/
 ---
 
-A selection of slides/posters from various conferences are available:(2)
+A selection of slides/posters from various conferences are available:(3)
 
 {% for pres in site.presentations reversed %}
 

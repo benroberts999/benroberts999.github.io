@@ -27,11 +27,10 @@ Research in theoretical atomic physics and particle astrophysics. My work focuss
  {% for pub in site.publications reversed %}
  <article class="post">
 
-   <h2><a href="{{ site.baseurl }}{{ pub.url }}">{{ pub.title }}</a></h2>
+   <h1><a href="{{ site.baseurl }}{{ pub.url }}">{{ pub.title }}</a></h1>
    <div class="entry">
      {{ pub.excerpt }}
    </div>
 
-   <!-- <a href="{{ site.baseurl }}{{ pub.url }}" class="read-more">...</a> -->
  </article>
  {% endfor %}
