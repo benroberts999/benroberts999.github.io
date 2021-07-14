@@ -28,11 +28,13 @@ images:
   - image_path: /photos/flicker.jpg
   - image_path: /photos/blackbird.jpg
     portrait: true
-  - image_path: /photos/moth.jpg
-  - image_path: /photos/rock.jpg
   - image_path: /photos/hawk.jpg
     portrait: true
+  - image_path: /photos/moth.jpg
+  - image_path: /photos/rock.jpg
 ---
+
+ * For more, see my [Instagram: benroberts999](https://www.instagram.com/benroberts999/)
 
 <style type="text/css">
 #wrap {
