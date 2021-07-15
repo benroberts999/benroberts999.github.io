@@ -2,6 +2,7 @@
 usemathjax: true
 layout: publication
 title: Search for transient ultralight dark matter signatures with networks of precision measurement devices using a Bayesian statistics method
+slug: gpsdm-bayesian
 ---
 
 B. M. Roberts, G. Blewitt, C. Dailey, A. Derevianko, [Phys. Rev. D **97**, 083009 (2018)](http://dx.doi.org/10.1103/PhysRevD.97.083009)

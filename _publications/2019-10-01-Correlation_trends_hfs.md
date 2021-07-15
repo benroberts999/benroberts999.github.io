@@ -2,6 +2,7 @@
 usemathjax: true
 layout: publication
 title: Correlation trends in the hyperfine structure for Rb, Cs, and Fr, and high-accuracy predictions for hyperfine constants
+slug: hfs-correlations
 ---
 
 S. J. Grunefeld, B. M. Roberts, J. S. M. Ginges, [Phys. Rev. A **100**, 042506 (2019)](http://dx.doi.org/10.1103/PhysRevA.100.042506)

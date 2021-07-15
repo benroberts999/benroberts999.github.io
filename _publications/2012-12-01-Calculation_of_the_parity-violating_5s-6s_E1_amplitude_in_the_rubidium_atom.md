@@ -2,6 +2,7 @@
 usemathjax: true
 layout: publication
 title: Calculation of the parity-violating 5s-6s E1 amplitude in the rubidium atom
+slug: rb-pnc
 ---
 
 V. A. Dzuba, V. V. Flambaum, B. M. Roberts, [Phys. Rev. A **86**, 062512 (2012)](http://dx.doi.org/10.1103/PhysRevA.86.062512)

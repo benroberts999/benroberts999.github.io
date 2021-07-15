@@ -3,9 +3,10 @@ usemathjax: true
 featured: true
 layout: publication
 title: Search for a Variation of the Fine Structure Constant around the Supermassive Black Hole in Our Galactic Center
+slug: galactic-center
 ---
 
-A. Hees, T. Do, B. M. Roberts, Andrea M. Ghez, _et al._, [Phys. Rev. Lett. **124**, 081101 (2020)](http://dx.doi.org/10.1103/PhysRevLett.124.081101)
+A. Hees, T. Do, B. M. Roberts, Andrea M. Ghez, _et al._, [Phys. Rev. Lett. **124**, 081101 (2020)](http://dx.doi.org/10.1103/PhysRevLett.124.081101) – _**Editors' Suggestion**_
 
  * Editors' Suggestion
  * Featured in _APS Physics Synopsis_: [Constants Still Constant Near Black Holes](https://physics.aps.org/articles/v13/s28)

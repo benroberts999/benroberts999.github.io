@@ -2,6 +2,7 @@
 usemathjax: true
 layout: publication
 title: Precision Measurement Noise Asymmetry and Its Annual Modulation as a Dark Matter Signature
+slug: dm-asymmetry
 ---
 
 Benjamin M. Roberts, Andrei Derevianko, [Universe **7**, 50 (2021)](http://dx.doi.org/10.3390/universe7030050)

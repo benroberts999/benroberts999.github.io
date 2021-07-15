@@ -3,6 +3,7 @@ usemathjax: true
 featured: true
 layout: publication
 title: Ionization of Atoms by Slow Heavy Particles, Including Dark Matter
+slug: dm-ionization
 ---
 
 B. M. Roberts, V. V. Flambaum, G. F. Gribakin, [Phys. Rev. Lett. **116**, 023201 (2016)](http://dx.doi.org/10.1103/PhysRevLett.116.023201)

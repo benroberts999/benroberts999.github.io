@@ -2,9 +2,10 @@
 usemathjax: true
 layout: publication
 title: Search for transient variations of the fine structure constant and dark matter using fiber-linked optical atomic clocks
+slug: transient-dm-syrte
 ---
 
-Benjamin M. Roberts, Pacome Delva, Ali Al-Masoudi, Anne Amy-Klein, _et al._, [New J. Phys. **22**, 093010 (2020)](http://dx.doi.org/10.1088/1367-2630/abaace) -- _**Featured article**_
+Benjamin M. Roberts, Pacome Delva, Ali Al-Masoudi, Anne Amy-Klein, _et al._, [New J. Phys. **22**, 093010 (2020)](http://dx.doi.org/10.1088/1367-2630/abaace) – _**Featured article**_
 
 [doi:10.1088/1367-2630/abaace](http://dx.doi.org/10.1088/1367-2630/abaace)
 

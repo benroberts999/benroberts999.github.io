@@ -2,6 +2,7 @@
 usemathjax: true
 layout: publication
 title: Nuclear-spin-dependent parity nonconservation in s-d5/2 and s-d3/2 transitions
+slug: sd-pnc
 ---
 
 B. M. Roberts, V. A. Dzuba, V. V. Flambaum, [Phys. Rev. A **89**, 012502 (2014)](http://dx.doi.org/10.1103/PhysRevA.89.012502)

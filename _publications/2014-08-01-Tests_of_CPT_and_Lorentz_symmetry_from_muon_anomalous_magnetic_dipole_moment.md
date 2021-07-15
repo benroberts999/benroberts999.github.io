@@ -2,6 +2,7 @@
 usemathjax: true
 layout: publication
 title: Tests of CPT and Lorentz symmetry from muon anomalous magnetic dipole moment
+slug: cpt-muon
 ---
 
 Y. V. Stadnik, B. M. Roberts, V. V. Flambaum, [Phys. Rev. D **90**, 045035 (2014)](http://dx.doi.org/10.1103/PhysRevD.90.045035)

@@ -2,6 +2,7 @@
 usemathjax: true
 layout: publication
 title: Applying the matched-filter technique to the search for dark matter transients with networks of quantum sensors
+slug: mft-gpsdm
 ---
 
 Guglielmo Panelli, B. M. Roberts, A. Derevianko, [EPJ Quantum Technol. **7**, 5 (2020)](http://dx.doi.org/10.1140/epjqt/s40507-020-00081-9)

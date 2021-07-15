@@ -3,6 +3,7 @@ usemathjax: true
 featured: true
 layout: publication
 title: Search for domain wall dark matter with atomic clocks on board global positioning system satellites
+slug: gpsdm-nature
 ---
 
 B. M. Roberts, G. Blewitt, C. Dailey, M. Murphy, _et al._, [Nature Commun. **8**, 1195 (2017)](http://dx.doi.org/10.1038/s41467-017-01440-4)

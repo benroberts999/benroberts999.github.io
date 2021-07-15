@@ -3,6 +3,7 @@ usemathjax: true
 featured: true
 layout: publication
 title: Limiting P-Odd Interactions of Cosmic Fields with Electrons, Protons, and Neutrons
+slug: cosmic-pnc-prl
 ---
 
 B. M. Roberts, Y. V. Stadnik, V. A. Dzuba, V. V. Flambaum, N. Leefer, D. Budker, [Phys. Rev. Lett. **113**, 081601 (2014)](http://dx.doi.org/10.1103/PhysRevLett.113.081601)

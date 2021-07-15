@@ -2,6 +2,7 @@
 usemathjax: true
 layout: publication
 title: Double-core-polarization contribution to atomic parity-nonconservation and electric-dipole-moment calculations
+slug: dcp-pnc
 ---
 
 B. M. Roberts, V. A. Dzuba, V. V. Flambaum, [Phys. Rev. A **88**, 042507 (2013)](http://dx.doi.org/10.1103/PhysRevA.88.042507)

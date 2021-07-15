@@ -2,6 +2,7 @@
 usemathjax: true
 layout: publication
 title: The hyperfine anomaly in heavy atoms and its role in precision atomic searches for new physics
+slug: hf-anomaly
 ---
 
 B. M. Roberts, J. S. M. Ginges, [arXiv:2101.09924](http://arxiv.org/abs/2101.09924)

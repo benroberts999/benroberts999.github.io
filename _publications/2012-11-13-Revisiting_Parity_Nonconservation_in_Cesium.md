@@ -3,6 +3,7 @@ usemathjax: true
 featured: true
 layout: publication
 title: Revisiting Parity Nonconservation in Cesium
+slug: cs-pnc
 ---
 
 V. A. Dzuba, J. C. Berengut, V. V. Flambaum, B. M. Roberts, [Phys. Rev. Lett. **109**, 203003 (2012)](http://dx.doi.org/10.1103/PhysRevLett.109.203003)

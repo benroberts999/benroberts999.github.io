@@ -2,6 +2,7 @@
 usemathjax: true
 layout: publication
 title: Parity Nonconservation in Atomic Transitions and Tests of Unification Theories
+slug: honours-thesis
 ---
 
 B. M. Roberts, Honours Thesis (UNSW) (2012)

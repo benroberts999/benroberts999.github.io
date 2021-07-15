@@ -2,6 +2,7 @@
 usemathjax: true
 layout: publication
 title: Strongly enhanced atomic parity violation due to close levels of opposite parity
+slug: close-levels-pnc
 ---
 
 B. M. Roberts, V. A. Dzuba, V. V. Flambaum, [Phys. Rev. A **89**, 042509 (2014)](http://dx.doi.org/10.1103/PhysRevA.89.042509)

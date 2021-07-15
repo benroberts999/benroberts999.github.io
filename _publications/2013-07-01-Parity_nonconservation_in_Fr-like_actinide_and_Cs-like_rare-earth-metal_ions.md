@@ -2,6 +2,7 @@
 usemathjax: true
 layout: publication
 title: Parity nonconservation in Fr-like actinide and Cs-like rare-earth-metal ions
+slug: fr-like-pnc
 ---
 
 B. M. Roberts, V. A. Dzuba, V. V. Flambaum, [Phys. Rev. A **88**, 012510 (2013)](http://dx.doi.org/10.1103/PhysRevA.88.012510)
