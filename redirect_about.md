@@ -1,5 +1,5 @@
 ---
  redirect:   https://www.roberts999.com
  layout:     redirect
- permalink: /about/
+ permalink: https://www.roberts999.com/about/
  ---
