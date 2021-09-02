@@ -12,5 +12,5 @@ permalink: /teaching/
   * PHYS6004 (Advanced Quantum Field Theory)
 
 
-## Particle Astrophysics
+## [Particle Astrophysics]({{ site.baseurl }}/teaching/astro/)
   * PHYS4080 (Frontiers in Astrophysics)
