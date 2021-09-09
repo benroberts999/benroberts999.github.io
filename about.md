@@ -1,4 +1,4 @@
 ---
- redirect:   https://www.roberts999.com/cv/
+ redirect:   https://www.roberts999.com/
  layout:     redirect
 ---
