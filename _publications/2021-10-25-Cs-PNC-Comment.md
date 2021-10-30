@@ -1,7 +1,7 @@
 ---
 usemathjax: true
 layout: publication
-title: "Comment on "New physics constraints from atomic parity violation in 133-Cs""
+title: "Comment on 'New physics constraints from atomic parity violation in 133-Cs'"
 slug: cs-pnc-comment
 ---
 
