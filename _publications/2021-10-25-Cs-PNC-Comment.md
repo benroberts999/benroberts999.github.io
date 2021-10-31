@@ -5,7 +5,7 @@ title: "Comment on 'New physics constraints from atomic parity violation in 133-
 slug: cs-pnc-comment
 ---
 
-B. M. Roberts, J. S. M. Ginges [arXiv:2110.11621](http://arxiv.org/abs/2110.11621)
+B. M. Roberts, J. S. M. Ginges, Physical Review D (accepted), [arXiv:2110.11621](http://arxiv.org/abs/2110.11621)
 
 [arXiv:2110.11621](http://arxiv.org/abs/2110.11621)
 
