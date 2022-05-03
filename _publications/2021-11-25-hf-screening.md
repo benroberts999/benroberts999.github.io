@@ -1,12 +1,13 @@
 ---
 usemathjax: true
 layout: publication
-title: "The Bohr-Weisskopf effect: from hydrogenlike-ion experiments to heavy-atom calculations of the hyperfine structure"
+title: "Bohr-Weisskopf effect: From hydrogenlike-ion experiments to heavy-atom calculations of the hyperfine structure"
 slug: hf-screening
 ---
 
-B. M. Roberts, P. G. Ranclaud, J. S. M. Ginges
-[arXiv:2111.12954](http://arxiv.org/abs/2111.12954)
+B. M. Roberts, P. G. Ranclaud, J. S. M. Ginges, [Phys. Rev. A. **105**, 018301 (2022)](https://link.aps.org/doi/10.1103/PhysRevA.105.052802)
+
+[doi:10.1103/PhysRevA.105.052802](http://dx.doi.org/10.1103/PhysRevA.105.052802)
 
 [arXiv:2111.12954](http://arxiv.org/abs/2111.12954)
 
