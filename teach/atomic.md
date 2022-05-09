@@ -29,19 +29,23 @@ which are available in the library.
   * 03: [Multi-electron atoms]({{ site.baseurl }}/teach/atomic/atom-03-04-multi.pdf)
 
 
-**Worksheets:**
+**Selection of worksheets:**
   * 01: [c++ arrays and classes, solve 1D differential equation]({{ site.baseurl }}/teach/atomic/atom-ws1.pdf)
   * 02: [c++ functions, numerical integration]({{ site.baseurl }}/teach/atomic/atom-ws2.pdf)
   * 03: [std::vector, Hamiltonian eigensystem]({{ site.baseurl }}/teach/atomic/atom-ws3.pdf)
 
 
-**Assignments:**
+<!-- **Assignments:**
 * 01: [Hydrogenlike atoms]({{ site.baseurl }}/teach/atomic/atom-as1.pdf)
-* 02: [Multi-electron, Hartree-Fock]({{ site.baseurl }}/teach/atomic/atom-as2.pdf)
+* 02: [Multi-electron, Hartree-Fock]({{ site.baseurl }}/teach/atomic/atom-as2.pdf) -->
 
 
 **C++ resources**
-  * Intro to c++ cheat-sheet: [github.com/benroberts999/cpp-cheatsheet](https://github.com/benroberts999/cpp-cheatsheet)
+  * Intro to c++ examples: [github.com/benroberts999/cpp-cheatsheet](https://github.com/benroberts999/cpp-cheatsheet)
+    * A list of several compilable examples
+  * [hackingcpp.com/](https://hackingcpp.com/)
+    * A large array of nicely formatted tutorials, examples, and cheat-sheets.
+    * Start with: [hackingcpp.com/cpp/beginners_guide](https://hackingcpp.com/cpp/beginners_guide.html)
   * [cplusplus.com/](https://www.cplusplus.com/)
     * Good, lots of examples, beginner friendly
   * [cppreference.com/](https://en.cppreference.com/)

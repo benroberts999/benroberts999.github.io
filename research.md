@@ -7,10 +7,10 @@ permalink: /research/
 Research in theoretical atomic physics and particle astrophysics. My work focusses on high-precision atomic structure calculations, and how atomic processes can be used for testing fundamental theories, probing for physics beyond the standard model, and searching for dark matter.
 
 ### Available projects at UQ (honours, PhD)
- * Dark matter induced atomic ionisation
- * High-accuracy atomic physics calculations
+ * High-accuracy atomic physics calculations for tests of fundamental physics
+ * Dark matter direct detection via atomic ionisation
  * For more details, see: [https://researchers.uq.edu.au/researcher/24237](https://researchers.uq.edu.au/researcher/24237)
- * Other projects may be available, contact me with any questions
+ * Projects are flexible and other projects are available, contact me with any questions
 
 
 ### Links
@@ -18,6 +18,7 @@ Research in theoretical atomic physics and particle astrophysics. My work focuss
  * arXiv profile (all papers, free downloads): [arxiv.org/a/roberts_b_1](https://arxiv.org/a/roberts_b_1.html)
  * [Google Scholar profile](https://scholar.google.com.au/citations?user=5i5bTuwAAAAJ)
  * [InspireHEP: B.M.Roberts.1](http://inspirehep.net/author/profile/B.M.Roberts.1)
+ * [ADS publications page](https://ui.adsabs.harvard.edu/public-libraries/vWzKbWxgTBqzF8vVh78nAQ)
  * [UQ page](https://researchers.uq.edu.au/researcher/24237)
  * [Brief CV (pdf)]({{ site.baseurl }}/docs/cv.pdf)
  * [Full publications list (pdf)]({{ site.baseurl }}/docs/publications.pdf)
