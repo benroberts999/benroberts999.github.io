@@ -1,5 +1,5 @@
 ---
- redirect:   https://www.roberts999.com/photography/
+ redirect:   https://www.broberts.io/photography/
  layout:     redirect
  permalink: /photo/
 ---

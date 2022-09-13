@@ -1,5 +1,5 @@
 ---
- redirect:   https://www.roberts999.com/research/
+ redirect:   https://www.broberts.io/research/
  layout:     redirect
  permalink: /publications/
 ---

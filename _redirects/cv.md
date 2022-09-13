@@ -1,5 +1,5 @@
 ---
- redirect:   https://www.roberts999.com/docs/cv.pdf
+ redirect:   https://www.broberts.io/docs/cv.pdf
  layout:     redirect
  permalink: /cv/
 ---
