@@ -21,9 +21,10 @@ permalink: /teaching/astro/
    * Main book for the course, available from library
    * Sections 8.7-8.8 covers cosmological parameters section
  * Kolb & Turner, _The early universe_
-   * A detailed, but high-level textbook. Goes well beyond what's required for the course, but those who are interested are encouraged to read
-   * Ch. 4 on big-back nucleosynthesis
-   * Ch. 5 on thermal production of dark matter
+   * A detailed and high-level textbook. Goes well beyond what's required for the course
+   * Those who are interested are encouraged to read
+     * Ch. 4 on big-bang nucleosynthesis
+     * Ch. 5 on thermal production of dark matter
 
 **Optional reading:**
  * Peebles, _Anomalies in Physical Cosmology_, [arXiv:2208.05018](https://arxiv.org/abs/2208.05018)
