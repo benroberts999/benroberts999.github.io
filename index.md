@@ -13,23 +13,23 @@ France, working on possibilities for dark matter detection using high-precision 
 in theoretical atomic physics from UNSW, Australia, in Sydney.
 
 ### Links
- * ORCiD: [orcid.org/0000-0002-0345-6375](https://orcid.org/0000-0002-0345-6375)
- * arXiv profile (all papers, free downloads): [arxiv.org/a/roberts_b_1](https://arxiv.org/a/roberts_b_1.html)
- * [ADS publications page](https://ui.adsabs.harvard.edu/public-libraries/vWzKbWxgTBqzF8vVh78nAQ)
- * [UQ researcher page](https://researchers.uq.edu.au/researcher/24237)
- * AMPSCI (atomic structure code): [ampsci.dev/](https://ampsci.dev/)
- * GitHub: [github.com/benroberts999](https://github.com/benroberts999)
- * [Brief CV (pdf)]({{ site.baseurl }}/docs/cv.pdf)
- * [Full publications list (pdf)]({{ site.baseurl }}/docs/publications.pdf)
- * Contact me: b.roberts [@] uq.edu.au
 
-
+* ORCiD: [orcid.org/0000-0002-0345-6375](https://orcid.org/0000-0002-0345-6375)
+* arXiv profile (all papers, free downloads): [arxiv.org/a/roberts_b_1](https://arxiv.org/a/roberts_b_1.html)
+* [ADS publications page](https://ui.adsabs.harvard.edu/public-libraries/vWzKbWxgTBqzF8vVh78nAQ)
+* [UQ researcher page](https://researchers.uq.edu.au/researcher/24237)
+* AMPSCI (atomic structure code): [ampsci.dev/](https://ampsci.dev/)
+* GitHub: [github.com/benroberts999](https://github.com/benroberts999)
+* [Brief CV (pdf)]({{ site.baseurl }}/docs/cv.pdf)
+* [Full publications list (pdf)]({{ site.baseurl }}/docs/publications.pdf)
+* [Slides/Presentations]({{ site.baseurl }}/talks)
+* Contact me: b.roberts [@] uq.edu.au
 
 &nbsp;
 
 *********************************************************************
 
-# Selected publications:
+# Selected publications
 
 <div class="entry">
 {% assign pubs = site.publications | reverse | where:'featured', true %}
@@ -49,7 +49,7 @@ in theoretical atomic physics from UNSW, Australia, in Sydney.
 
 *********************************************************************
 
-# Recent posts:
+# Recent posts
 
 <div class="entry">
 {% assign posts = site.posts %}
