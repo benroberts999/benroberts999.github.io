@@ -23,8 +23,9 @@ Research in theoretical atomic physics and particle astrophysics. My work focuss
 * [UQ page](https://researchers.uq.edu.au/researcher/24237)
 * [Brief CV (pdf)]({{ site.baseurl }}/docs/cv.pdf)
 * [Full publications list (pdf)]({{ site.baseurl }}/docs/publications.pdf)
+* [Recent slides/presentations]({{ site.baseurl }}/talks)
 
-Slides from most of my recent conference presentations can be found [here]({{ site.baseurl }}/talks)
+<!-- Slides from most of my recent conference presentations can be found [here]({{ site.baseurl }}/talks) -->
 
 # Recent publications
 
