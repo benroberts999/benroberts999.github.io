@@ -8,7 +8,8 @@ Research in theoretical atomic physics and particle astrophysics. My work focuss
 
 ### Available projects at UQ (honours, PhD)
 
-* High-accuracy atomic physics calculations for tests of fundamental physics
+* Atomic physics as a probe of the Standard Model at low energies
+* Development of high-precision atomic structure methods
 * Dark matter direct detection via atomic ionisation
 * For more details, see: [https://researchers.uq.edu.au/researcher/24237](https://researchers.uq.edu.au/researcher/24237)
 * Projects are flexible and other projects are available, contact me with any questions
