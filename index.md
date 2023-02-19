@@ -33,7 +33,7 @@ in theoretical atomic physics from UNSW, Australia, in Sydney.
 
 <div class="entry">
 {% assign pubs = site.publications | reverse | where:'featured', true %}
-{% for pub in pubs limit:6 %}
+{% for pub in pubs limit:10 %}
 <article class="post">
 
   <h1><a href="{{ site.baseurl }}{{ pub.url }}">{{ pub.title }}</a></h1>
