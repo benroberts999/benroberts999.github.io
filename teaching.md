@@ -5,12 +5,13 @@ permalink: /teaching/
 ---
 
 ## [Computational Atomic Physics]({{ site.baseurl }}/teaching/atomic/)
-  * PHYS4070/7270 (Advanced Computational Physics)
 
+* PHYS4070/7270 (Advanced Computational Physics)
 
 ## [Introduction to Quantum Electrodynamics]({{ site.baseurl }}/teaching/qed/)
-  * PHYS6004 (Advanced Quantum Field Theory)
 
+* PHYS6004 (Advanced Quantum Field Theory)
 
 ## [Particle Astrophysics]({{ site.baseurl }}/teaching/astro/)
-  * PHYS4080 (Frontiers in Astrophysics)
+
+* PHYS4080 (Frontiers in Astrophysics)
