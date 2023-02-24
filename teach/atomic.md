@@ -25,19 +25,19 @@ which are available in the library.
 
 ## Lecture Notes
 
-* 01: [Hydrogenlike atoms]({{ site.baseurl }}/teach/atomic/atom-01-Hydrogen.pdf)
-* 02: [Numerical integration]({{ site.baseurl }}/teach/atomic/atom-02-Integration.pdf)
-* 03: [Multi-electron atoms]({{ site.baseurl }}/teach/atomic/atom-03-04-multi.pdf)
+* 01: [Hydrogenlike atoms]({{ site.baseurl }}/teach/atomic/01-Atomic-Hydrogen.pdf)
+* 02: [Numerical integration]({{ site.baseurl }}/teach/atomic/02-Atomic-Integration.pdf)
+* 03: [Multi-electron atoms]({{ site.baseurl }}/teach/atomic/03-Atomic-HartreeFock.pdf)
+
+## Project (first assignment)
+
+* [Hartree-Fock for Li]({{ site.baseurl }}/teach/atomic/Project1-Atomic-2023.pdf)
 
 ## Selection of worksheets
 
 * 01: [c++ arrays and classes, solve 1D differential equation]({{ site.baseurl }}/teach/atomic/atom-ws1.pdf)
 * 02: [c++ functions, numerical integration]({{ site.baseurl }}/teach/atomic/atom-ws2.pdf)
 * 03: [std::vector, Hamiltonian eigensystem]({{ site.baseurl }}/teach/atomic/atom-ws3.pdf)
-
-<!-- **Assignments:**
-* 01: [Hydrogenlike atoms]({{ site.baseurl }}/teach/atomic/atom-as1.pdf)
-* 02: [Multi-electron, Hartree-Fock]({{ site.baseurl }}/teach/atomic/atom-as2.pdf) -->
 
 ## C++ resources
 
