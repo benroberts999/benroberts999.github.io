@@ -20,8 +20,8 @@ in theoretical atomic physics from UNSW, Australia, in Sydney.
 * [UQ researcher page](https://researchers.uq.edu.au/researcher/24237)
 * AMPSCI (atomic structure code): [ampsci.dev/](https://ampsci.dev/)
 * GitHub: [github.com/benroberts999](https://github.com/benroberts999)
-* [Brief CV (pdf)]({{ site.baseurl }}/docs/cv.pdf)
-* [Full publications list (pdf)]({{ site.baseurl }}/docs/publications.pdf)
+* [Brief CV (pdf)]({{ site.baseurl }}/docs/cv-RobertsBM.pdf)
+* [Full publications list (pdf)]({{ site.baseurl }}/docs/publications-RobertsBM.pdf)
 * [Slides/Presentations]({{ site.baseurl }}/talks)
 * Contact me: b.roberts [@] uq.edu.au
 
