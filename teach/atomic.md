@@ -33,13 +33,20 @@ which are available in the library.
 
 * [Hartree-Fock for Li]({{ site.baseurl }}/teach/atomic/Project1-Atomic-2023.pdf)
 
-## Selection of worksheets
+## Worksheets and basic tutorials
 
-* 01: [c++ arrays and classes, solve 1D differential equation]({{ site.baseurl }}/teach/atomic/atom-ws1.pdf)
-* 02: [c++ functions, numerical integration]({{ site.baseurl }}/teach/atomic/atom-ws2.pdf)
-* 03: [std::vector, Hamiltonian eigensystem]({{ site.baseurl }}/teach/atomic/atom-ws3.pdf)
+* 01: Introduction, getting up and running: [WS01-Introduction.pdf]({{ site.baseurl }}/teach/atomic/WS01-Introduction.pdf), [WS01-Introduction.md]({{ site.baseurl }}/teach/atomic/WS01-Introduction.md)
+  * Quick start guide: [QuickStart.pdf]({{ site.baseurl }}/teach/atomic/QuickStart.pdf), [QuickStart.md]({{ site.baseurl }}/teach/atomic/QuickStart.md)
+* 02: Matrices, solving eigenvalue problem for Hydrogen [WS02-MatrixEigensystems.pdf]({{ site.baseurl }}/teach/atomic/WS02-MatrixEigensystems.pdf), [WS02-MatrixEigensystems.md]({{ site.baseurl }}/teach/atomic/WS02-MatrixEigensystems.md)
+  * Arrays in C++: [Tutorial_Array-Vector.pdf]({{ site.baseurl }}/teach/atomic/Tutorial_Array-Vector.pdf), [Tutorial_Array-Vector.md]({{ site.baseurl }}/teach/atomic/Tutorial_Array-Vector.md)
+  * Classes in C++: [Tutorial_Classes.pdf]({{ site.baseurl }}/teach/atomic/Tutorial_Classesr.pdf), [Tutorial_Classes.md]({{ site.baseurl }}/teach/atomic/Tutorial_Classes.md)
+* 03: [WS03-Integration.pdf]({{ site.baseurl }}/teach/atomic/WS03-Integration.pdf), [WS03-Integration.md]({{ site.baseurl }}/teach/atomic/WS03-Integration.md)
+  * Functions, templates, lambdas in C++: [Tutorial_FunctionsTemplatesFunctional.pdf]({{ site.baseurl }}/teach/atomic/Tutorial_FunctionsTemplatesFunctional.pdf), [Tutorial_FunctionsTemplatesFunctional.md]({{ site.baseurl }}/teach/atomic/Tutorial_FunctionsTemplatesFunctional.md)
 
-## C++ resources
+## Basic tutorials (correspond to each worksheet)
+* 01a
+
+## Other C++ resources
 
 * Intro to c++ examples: [github.com/benroberts999/cpp-cheatsheet](https://github.com/benroberts999/cpp-cheatsheet)
   * A list of several compilable examples
