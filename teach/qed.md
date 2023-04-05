@@ -13,10 +13,10 @@ Finally, a semi-relativistic treatment of the Lamb shift is given (following pap
 
 ## Lecture Notes
 
-* 01: [Dirac theory: recap]({{ site.baseurl }}/teach/qed/01-DiracRecap.pdf)
-* 02: [QED overview, Feynman rules]({{ site.baseurl }}/teach/qed/02-QuantisationQED.pdf)
-* 03: [Semi-relativistic treatment of Lamb shift, renormalisation]({{ site.baseurl }}/teach/qed/03-LambShift.pdf)
-* Note: some typos, sign mistakes — will be fixed "soon"
+* [Relativistic Quantum Mechanics]({{ site.baseurl }}/teach/qed/RelativisticQM-BRoberts.pdf)
+  * Contains: quick overview of Dirac theory
+  * QED overview, summary of Feynman rules
+  * Semi-relativistic treatment of Lamb shift, renormalisation
 
 ## Texts
 
