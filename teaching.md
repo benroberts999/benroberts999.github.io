@@ -15,3 +15,7 @@ permalink: /teaching/
 ## [Particle Astrophysics]({{ site.baseurl }}/teaching/astro/)
 
 * PHYS4080 (Frontiers in Astrophysics)
+
+## [Foundations of Classical Mechanics]({{ site.baseurl }}/teaching/classicalmechanics/)
+
+* Introduction to foundations of Classical Mechanics
