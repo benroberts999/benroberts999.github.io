@@ -8,10 +8,9 @@ A brief overview of the foundations of classical mechanics.
 
 ## Lecture Notes
 
-* [Relativistic Quantum Mechanics]({{ site.baseurl }}/teach/classical/ClassicalMechanics-BMRoberts.pdf)
-  * Contains: quick overview of Dirac theory
-  * QED overview, summary of Feynman rules
-  * Semi-relativistic treatment of Lamb shift, renormalisation
+* [Classical Mechanics]({{ site.baseurl }}/teach/classical/ClassicalMechanics-BMRoberts.pdf)
+  * Overview of foundations of classical mechanics
+  * Langrangian, Hamiltonian formulation, Noether's theorem, Poisson brackets and more
 
 ## Texts
 
