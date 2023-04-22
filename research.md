@@ -37,6 +37,7 @@ Research in theoretical atomic physics and particle astrophysics. My work focuss
 
    <h1><a href="{{ site.baseurl }}{{ pub.url }}">{{ pub.title }}</a></h1>
    <div class="entry">
+     <b><a href="{{ site.baseurl }}{{ pub.url }}">{{ pub.title }}</a></b>,
      {{ pub.excerpt }}
    </div>
 
