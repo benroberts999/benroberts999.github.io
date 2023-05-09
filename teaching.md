@@ -19,3 +19,7 @@ permalink: /teaching/
 ## [Foundations of Classical Mechanics]({{ site.baseurl }}/teaching/classicalmechanics/)
 
 * Introduction to foundations of Classical Mechanics
+
+## [Computational Workshops]({{ site.baseurl }}/teaching/compute/)
+
+* git and GitHub workshop
