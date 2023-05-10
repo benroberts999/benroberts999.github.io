@@ -9,16 +9,19 @@ permalink: /teaching/compute/
 ### Slides
 
 * [git and GitHub slides ]({{ site.baseurl }}/teach/compute/git-workshop.pdf)
+* Google slides version: <https://docs.google.com/presentation/d/1_vr6rSFEnR3vQKaKaPAe4Y9ECy6QbMDHU4nevcCBGus/edit?usp=sharing>
+* zoom recording: <https://uqz.zoom.us/rec/share/h7CnJK9mNq5rZ1TYVSfdgl89GUYngehDPYeXvH_BoGj3_QG4ORPXRRJRJZjc7UwN.9YMp-7hp4d2Lxriv>
 
-### Workshop tasks
+### Workshop repository and tasks
 
 * See GitHub repository: [benroberts999/git-workshop](https://github.com/benroberts999/git-workshop)
+* Discussion forum: <https://github.com/benroberts999/git-workshop/discussions>
 
 --------
 
-## See also: linux and c++ tutorials (via PHYS4070: Computational Physics)
+### See also: linux and c++ tutorials (via PHYS4070: Computational Physics)
 
-### Worksheets and basic tutorials
+#### Worksheets and basic tutorials
 
 * 01: Introduction, getting up and running: [WS01-Introduction.pdf]({{ site.baseurl }}/teach/atomic/WS01-Introduction.pdf)
   * Quick start guide: [QuickStart.pdf]({{ site.baseurl }}/teach/atomic/QuickStart.pdf)
@@ -28,7 +31,7 @@ permalink: /teaching/compute/
 * 03: [WS03-Integration.pdf]({{ site.baseurl }}/teach/atomic/WS03-Integration.pdf)
   * Functions, templates, lambdas in C++: [Tutorial_FunctionsTemplatesFunctional.pdf]({{ site.baseurl }}/teach/atomic/Tutorial_FunctionsTemplatesFunctional.pdf)
 
-### Other C++ resources
+#### Other C++ resources
 
 * Intro to c++ examples: [github.com/benroberts999/cpp-cheatsheet](https://github.com/benroberts999/cpp-cheatsheet)
   * A list of several compilable examples
