@@ -14,13 +14,13 @@ in theoretical atomic physics from UNSW, Australia, in Sydney.
 
 ### Links
 
+* [Brief CV (pdf)]({{ site.baseurl }}/docs/cv-RobertsBM.pdf)
+* [Full publications list (pdf)]({{ site.baseurl }}/docs/publications-RobertsBM.pdf)
+  * [Publications with abstracts]({{ site.baseurl }}/docs/publications-Abstracts-RobertsBM.pdf)
 * ORCiD: [orcid.org/0000-0002-0345-6375](https://orcid.org/0000-0002-0345-6375)
 * arXiv profile (all papers, free downloads): [arxiv.org/a/roberts_b_1](https://arxiv.org/a/roberts_b_1.html)
 * [ADS publications page](https://ui.adsabs.harvard.edu/public-libraries/vWzKbWxgTBqzF8vVh78nAQ)
 * [UQ researcher page](https://researchers.uq.edu.au/researcher/24237)
-* [Brief CV (pdf)]({{ site.baseurl }}/docs/cv-RobertsBM.pdf)
-* [Full publications list (pdf)]({{ site.baseurl }}/docs/publications-RobertsBM.pdf)
-  * [Publications with abstracts]({{ site.baseurl }}/docs/publications-Abstracts-RobertsBM.pdf)
 * [Slides/Presentations]({{ site.baseurl }}/talks)
 * AMPSCI (atomic structure code): [ampsci.dev/](https://ampsci.dev/)
 * GitHub: [github.com/benroberts999](https://github.com/benroberts999)

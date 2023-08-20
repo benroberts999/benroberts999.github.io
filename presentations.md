@@ -10,5 +10,6 @@ _A selection of slides from some recent presentations and public talks:_
 
 **{{ pres.title }}**, _{{ pres.conference }}_; {{ pres.host }}. — _{{ pres.date | date: "%B %Y" }}_
 {{ pres.content }}
+<br>
 
 {% endfor %}

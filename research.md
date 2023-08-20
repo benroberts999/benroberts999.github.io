@@ -27,7 +27,7 @@ Research in theoretical atomic physics and particle astrophysics. My work focuss
 * [Brief CV (pdf)]({{ site.baseurl }}/docs/cv-RobertsBM.pdf)
 * [Full publications list (pdf)]({{ site.baseurl }}/docs/publications-RobertsBM.pdf)
   * [Publications with abstracts]({{ site.baseurl }}/docs/publications-Abstracts-RobertsBM.pdf)
-* [Recent slides/presentations]({{ site.baseurl }}/talks)
+* [Recent slides/presentations]({{ site.baseurl }}/slides)
 
 <!-- Slides from most of my recent conference presentations can be found [here]({{ site.baseurl }}/talks) -->
 
