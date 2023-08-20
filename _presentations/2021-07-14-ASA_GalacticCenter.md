@@ -3,4 +3,4 @@ title: "Search for a variation of the fine-structure constant around the superma
 conference: ASA (Astronomical Society of Australia) Annual Science Meeting
 host: University of Melbourne, Australia (held virtually)
 ---
- * [Slides]({{ site.baseurl }}/slides/2107-ASA-GalacticCenter-compressed.pdf)
+ * [Slides]({{ site.baseurl }}/slides-pdf/2107-ASA-GalacticCenter-compressed.pdf)

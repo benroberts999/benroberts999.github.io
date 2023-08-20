@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Conferences & Presentations
-permalink: /talks/
+permalink: /slides/
 ---
 
-A selection of slides from some recent presentations and public talks:
+_A selection of slides from some recent presentations and public talks:_
 
 {% for pres in site.presentations reversed %}
 

@@ -48,7 +48,7 @@ collections:
     permalink: /pubs/:year/:slug/
   presentations:
     output: true
-    permalink: /slides/:year/:slug/
+    permalink: /slides-collection/:year/:slug/
   redirects:
     output: true
 
