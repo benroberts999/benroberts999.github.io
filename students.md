@@ -26,7 +26,7 @@ permalink: /students/
 {% if student.type == "PhD" %}
 <article class="post">
 
-  <h1>{{ student.name }} ({{ student.type }} student)</h1>
+  <h2>{{ student.name }} ({{ student.type }} student)</h2>
   <div class="entry">
     {{ student.content }}
     <hr>
@@ -37,7 +37,7 @@ permalink: /students/
 {% endfor %}
 </div>
 
-## Current Honours/Masters Students
+# Current Honours/Masters Students
 
 <div class="entry">
 {% assign tstudent = site.students | reverse | where:'current', true %}
@@ -45,7 +45,7 @@ permalink: /students/
 {% if student.type != "PhD" %}
 <article class="post">
 
-  <h1>{{ student.name }} ({{ student.type }} student)</h1>
+  <h2>{{ student.name }} ({{ student.type }} student)</h2>
   <div class="entry">
     {{ student.content }}
     <hr>
