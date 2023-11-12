@@ -16,7 +16,9 @@ permalink: /students/
 
 <!-- Slides from most of my recent conference presentations can be found [here]({{ site.baseurl }}/talks) -->
 
-## Current PhD Students
+<hr>
+
+# Current PhD Students
 
 <div class="entry">
 {% assign tstudent = site.students | reverse | where:'current', true %}

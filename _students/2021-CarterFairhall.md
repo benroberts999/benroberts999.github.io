@@ -1,5 +1,5 @@
 ---
-name: "PhD student: Carter Fairhall"
+name: "Carter Fairhall"
 university: "UQ"
 type: "PhD"
 current: true
