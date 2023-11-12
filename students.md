@@ -16,31 +16,40 @@ permalink: /students/
 
 <!-- Slides from most of my recent conference presentations can be found [here]({{ site.baseurl }}/talks) -->
 
-## Current Students
-
- <!-- {% for student in site.students reversed %}
- <article class="post">
-
-   <h1>{{ pub.title }}</h1>
-   <div class="entry">
-     {{ pub.content }}
-     <hr>
-   </div>
-
- </article>
- {% endfor %} -->
+## Current PhD Students
 
 <div class="entry">
 {% assign tstudent = site.students | reverse | where:'current', true %}
 {% for student in tstudent %}
+{% if student.type == "PhD" %}
 <article class="post">
 
-  <h1>{{ student.name }}</h1>
+  <h1>{{ student.name }} ({{ student.type }} student)</h1>
   <div class="entry">
     {{ student.content }}
     <hr>
   </div>
 
 </article>
+{% endif %}
+{% endfor %}
+</div>
+
+## Current Honours/Masters Students
+
+<div class="entry">
+{% assign tstudent = site.students | reverse | where:'current', true %}
+{% for student in tstudent %}
+{% if student.type != "PhD" %}
+<article class="post">
+
+  <h1>{{ student.name }} ({{ student.type }} student)</h1>
+  <div class="entry">
+    {{ student.content }}
+    <hr>
+  </div>
+
+</article>
+{% endif %}
 {% endfor %}
 </div>
