@@ -6,7 +6,13 @@ permalink: /research/
 
 Research in theoretical atomic physics and particle astrophysics. My work focusses on high-precision atomic structure calculations, and how atomic processes can be used for testing fundamental theories, probing for physics beyond the standard model, and searching for dark matter.
 
-<img align="center" width="95%" src="{{ site.baseurl }}/images/LesHouches2023.jpg" border="500">
+<div style="border-style:transparent; border-width:250px;">
+  <img align="center" width="95%" src="./images/LesHouches2023.jpg">
+    <div>
+      <span><font size="0.25">  <i>Les Houches, 2023</i></font></span >
+    </div>  
+</div>
+<div style="clear:both"></div>
 
 ### Available projects at UQ (PhD, masters, honours, and undergraduate)
 
