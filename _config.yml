@@ -40,6 +40,7 @@ collections:
   - publications
   - presentations
   - redirects
+  - students
   # collections_dir: collections
 
 collections:
@@ -48,7 +49,10 @@ collections:
     permalink: /pubs/:year/:slug/
   presentations:
     output: true
-    permalink: /slides2/:year/:slug/
+    permalink: /pres/:year/:slug/
+  students:
+    output: true
+    permalink: /students/:year/:slug/
   redirects:
     output: true
 
