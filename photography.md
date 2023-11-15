@@ -34,7 +34,7 @@ images:
   - image_path: /photos/rock.jpg
 ---
 
- * For more, see my [Instagram: benroberts999](https://www.instagram.com/benroberts999/)
+* For more, see my [Instagram: benroberts999](https://www.instagram.com/benroberts999/)
 
 <style type="text/css">
 #wrap {
@@ -67,7 +67,6 @@ images:
   padding: 10px;
 }
 </style>
-
 
 <ul class="photo-gallery">
 <div id="wrap">
