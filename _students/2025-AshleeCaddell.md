@@ -5,7 +5,7 @@ type: "PhD"
 current: true
 ---
 
-<div align="right" width="20%" style="border-style:transparent; border-width:250px;">
+<div align="right" width="20%" style="border-style:transparent; border-width:2500px;">
   <img align="right" width="20%" src="{{site.baseurl}}/images/students/AshleeCaddell.jpg">
 </div>
 
