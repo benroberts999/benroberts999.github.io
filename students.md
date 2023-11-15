@@ -44,8 +44,8 @@ permalink: /students/
 <hr>
 
 <div class="entry">
-{% assign tstudent = site.students | reverse | where:'current', true %}
-{% for student in tstudent %}
+{% assign tstudentB = site.students | reverse | where:'current', true %}
+{% for student in tstudentB %}
 {% if student.type != "PhD" %}
 <article class="post">
 
@@ -67,8 +67,8 @@ permalink: /students/
 <hr>
 
 <div class="entry">
-{% assign tstudent = site.students | reverse | where:'current', true %}
-{% for student in tstudent %}
+{% assign tstudentC = site.students | reverse | where:'current', false %}
+{% for student in tstudentC %}
 <article class="post">
 
   <h2>{{ student.name }} ({{ student.type }} student, {{ student.university }})</h2>
