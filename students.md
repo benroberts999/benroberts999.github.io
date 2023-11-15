@@ -14,8 +14,6 @@ permalink: /students/
 * Projects are flexible and other projects are available, contact me with any questions
 * Formal applications are made through the University of Queensland -- [smp.uq.edu.au/study/higher-degree-research](https://smp.uq.edu.au/study/higher-degree-research). Feel free to contact me directly with any questions
 
-<!-- Slides from most of my recent conference presentations can be found [here]({{ site.baseurl }}/talks) -->
-
 <hr>
 
 # Current PhD Students
@@ -42,7 +40,7 @@ permalink: /students/
 <div class="entry">
 {% assign tstudent = site.students | reverse | where:'current', true %}
 {% for student in tstudent %}
-{% if student.type != "PhD" %}
+{% if student.type == "PhD" %}
 <article class="post">
 
   <h2>{{ student.name }} ({{ student.type }} student, {{ student.university }})</h2>
