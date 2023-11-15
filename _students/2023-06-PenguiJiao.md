@@ -5,7 +5,7 @@ type: "Honours"
 current: false
 ---
 
-<div align="right" width="20%" style="border-width:2500px;">
+<div align="right" width="20%" style="border:20px;">
   <img style="border:10px;" align="right" width="20%" src="{{site.baseurl}}/images/students/Pengrui.jpg">
 </div>
 
@@ -14,3 +14,5 @@ current: false
 Graduated: June 2023
 
 Pengui went on to do a PhD at PSL, in Paris, France.
+
+<br><br>
