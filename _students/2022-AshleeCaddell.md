@@ -3,12 +3,10 @@ name: "Ashlee Caddell"
 university: "UQ"
 type: "PhD"
 current: true
-photo: ""
-link: ""
 ---
 
 <div align="right" width="30%" style="border-style:transparent; border-width:250px;">
-  <img align="right" width="30%" src="{{site.baseurl}}/images/ben.jpg">
+  <img align="right" width="30%" src="{{site.baseurl}}/images/students/AshleeCaddell.jpg">
 </div>
 
 Ashlee works on developing methods for searching for dark matter and exotic physics using atomic phenomena.
@@ -16,3 +14,7 @@ Ashlee works on developing methods for searching for dark matter and exotic phys
 ### Papers
 
 * A. R. Caddell, V. V. Flambaum, and B. M. Roberts, [Phys. Rev. D 108, 083030 (2023)](https://link.aps.org/doi/10.1103/PhysRevD.108.083030), [[arXiv:2305.05125](http://arxiv.org/abs/2305.05125)].
+
+### Conferences
+
+* _Atomic interactions of dark matter_, Dark Side of the Universe, UNSW 2022

@@ -3,12 +3,10 @@ name: "Dhruv Jani"
 university: "UQ"
 type: "Honours"
 current: true
-photo: ""
-link: ""
 ---
 
 <div align="right" width="30%" style="border-style:transparent; border-width:250px;">
-  <img align="right" width="30%" src="{{site.baseurl}}/images/ben.jpg">
+  <img align="right" width="30%" src="{{site.baseurl}}/images/404.jpg">
 </div>
 
 Ashlee works on developing methods for searching for dark matter and exotic physics using atomic phenomena.
