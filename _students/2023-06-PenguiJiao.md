@@ -6,7 +6,7 @@ current: false
 ---
 
 <div align="right" width="20%" style="border-width:2500px;">
-  <img style="border:30px solid black;" align="right" width="20%" src="{{site.baseurl}}/images/students/Pengrui.jpg">
+  <img style="border:10px;" align="right" width="20%" src="{{site.baseurl}}/images/students/Pengrui.jpg">
 </div>
 
 **Thesis:** Dynamic Breit Correction to Atomic Energy Levels
