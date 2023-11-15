@@ -18,6 +18,8 @@ permalink: /students/
 
 # Current PhD Students
 
+<hr>
+
 <div class="entry">
 {% assign tstudent = site.students | reverse | where:'current', true %}
 {% for student in tstudent %}
@@ -35,7 +37,11 @@ permalink: /students/
 {% endfor %}
 </div>
 
+<hr>
+
 # Current Honours/Masters Students
+
+<hr>
 
 <div class="entry">
 {% assign tstudent = site.students | reverse | where:'current', true %}
@@ -54,7 +60,11 @@ permalink: /students/
 {% endfor %}
 </div>
 
+<hr>
+
 # Previous Students
+
+<hr>
 
 <div class="entry">
 {% assign tstudent = site.students | reverse | where:'current', true %}
