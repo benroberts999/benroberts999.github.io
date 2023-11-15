@@ -5,8 +5,8 @@ type: "PhD"
 current: true
 ---
 
-<div align="right" width="30%" style="border-style:transparent; border-width:250px;">
-  <img align="right" width="30%" src="{{site.baseurl}}/images/students/AshleeCaddell.jpg">
+<div align="right" width="20%" style="border-style:transparent; border-width:250px;">
+  <img align="right" width="20%" src="{{site.baseurl}}/images/students/AshleeCaddell.jpg">
 </div>
 
 Ashlee works on developing methods for searching for dark matter and exotic physics using atomic phenomena.

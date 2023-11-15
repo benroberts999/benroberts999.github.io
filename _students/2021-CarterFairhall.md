@@ -5,11 +5,11 @@ type: "PhD"
 current: true
 ---
 
-<div align="right" width="30%" style="border-style:transparent; border-width:250px;">
-  <img align="right" width="30%" src="{{site.baseurl}}/images/404.jpg">
-</div>
+<!-- <div align="right" width="20%" style="border-style:transparent; border-width:250px;">
+  <img align="right" width="20%" src="{{site.baseurl}}/images/404.jpg">
+</div> -->
 
-Carter works on extending methods for high-precission atomic structure calculations for fundamental physics studies.
+Carter works on extending methods for high-precission atomic structure calculations for fundamental physics studies. Primary supervisor: Dr. Jacinda Ginges.
 
 ### Papers
 
