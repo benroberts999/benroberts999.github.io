@@ -6,7 +6,7 @@ current: false
 ---
 
 <div align="right" width="20%" style="border:20px;">
-  <img style="border:10px;" align="right" width="20%" src="{{site.baseurl}}/images/students/Conner.jpg">
+  <img style="border:10px;" align="right" width="20%" src="{{site.baseurl}}/images/students/Conner.jpeg">
 </div>
 
 Graduated: May 2017
