@@ -10,3 +10,7 @@ current: true
 </div> -->
 
 **Project:** Theoretical study of atomic systems for the development of atomic clocks
+
+### Conferences/Worskhops during masters
+
+* AIP (Australian Institute of Physics) Summer Meeting (talk), ANU, 2023

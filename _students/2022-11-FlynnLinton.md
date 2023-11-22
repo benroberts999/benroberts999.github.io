@@ -13,9 +13,9 @@ Graduated: June 2022
 
 **Thesis:** Extending correlation methods for high-accuracy calculations of atomic wavefunctions
 
-### Conferences during program
+### Conferences during honours
 
 * ACUR student conference 2022 (talk)
-* AIP summer meeting 2021 (poster)
+* AIP (Australian Institute of Physics) Summer Meeting (poster), QUT, 2021
 
 Flynn went on to a Masters position at ETH Zurich, Switzerland.

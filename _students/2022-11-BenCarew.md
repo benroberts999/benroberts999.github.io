@@ -13,7 +13,7 @@ Graduated: June 2022
 
 **Thesis:** Atomic Ionisation with Electron Interactions of Dark Matter
 
-### Conferences/Presentations during program
+### Conferences/Presentations during honours
 
 * ACUR student conference 2022 (talk)
 * AIP summer meeting 2021 (poster)
