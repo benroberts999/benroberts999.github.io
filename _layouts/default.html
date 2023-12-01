@@ -2,15 +2,19 @@
 <html>
   <head>
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180"
+      href="/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32"
+      href="/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16"
+      href="/favicons/favicon-16x16.png">
     <link rel="manifest" href="/favicons/site.webmanifest">
     <link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
 
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{
+      site.description }}</title>
 
     {% include meta.html %}
     {% include mathjax.html %}
@@ -20,7 +24,9 @@
     <![endif]-->
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <link rel="alternate" type="application/rss+xml"
+      title="{{ site.name }} - {{ site.description }}"
+      href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
@@ -29,7 +35,8 @@
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+          <a href="{{ site.baseurl }}/" class="site-avatar"><img
+              src="{{ site.avatar }}" /></a>
 
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
@@ -40,7 +47,8 @@
             <a href="{{ site.baseurl }}/">Home</a>
             <!-- <a href="{{ site.baseurl }}/posts">Posts</a> -->
             <a href="{{ site.baseurl }}/research">Research</a>
-            <!-- <a href="{{ site.baseurl }}/slides">Talks</a> -->
+            <a href="{{ site.baseurl }}/students">Students</a>
+            <a href="{{ site.baseurl }}/slides">Talks</a>
             <a href="{{ site.baseurl }}/teaching">Teaching</a>
             <a href="{{ site.baseurl }}/photography">Photography</a>
           </nav>
