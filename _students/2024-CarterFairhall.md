@@ -5,9 +5,9 @@ type: "PhD"
 current: true
 ---
 
-<!-- <div align="right" width="20%" style="border-style:transparent; border-width:250px;">
-  <img align="right" width="20%" src="{{site.baseurl}}/images/404.jpg">
-</div> -->
+<div align="right" width="20%" style="border-style:transparent; border-width:25px;">
+  <img align="right" width="20%" src="{{site.baseurl}}/images/students/Carter.jpg">
+</div>
 
 Carter works on extending methods for high-precission atomic structure calculations for fundamental physics studies. Primary supervisor: Dr. Jacinda Ginges.
 
