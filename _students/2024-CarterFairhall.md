@@ -13,8 +13,8 @@ Carter works on extending methods for high-precission atomic structure calculati
 
 ### Publications during PhD
 
-* C. J. Fairhall, B. M. Roberts, and J. S. M. Ginges, [Phys. Rev. A 107, 022813 (2023)](https://link.aps.org/doi/10.1103/PhysRevA.107.022813), [[arXiv:2212.11490](http://arxiv.org/abs/2212.11490)]
-* B. M. Roberts, C. J. Fairhall, and J. S. M. Ginges, [Phys. Rev. A 107, 052812 (2023)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.052812), [[arXiv:2211.11134](https://arxiv.org/abs/2211.11134)]
+* C. J. Fairhall, B. M. Roberts, and J. S. M. Ginges, [Phys. Rev. A **107**, 022813 (2023)](https://link.aps.org/doi/10.1103/PhysRevA.107.022813), [[arXiv:2212.11490](http://arxiv.org/abs/2212.11490)]
+* B. M. Roberts, C. J. Fairhall, and J. S. M. Ginges, [Phys. Rev. A **107**, 052812 (2023)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.052812), [[arXiv:2211.11134](https://arxiv.org/abs/2211.11134)]
 
 ### Conferences/Worskhops during PhD
 
