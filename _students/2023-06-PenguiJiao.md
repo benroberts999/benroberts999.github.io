@@ -13,6 +13,6 @@ current: false
 
 Graduated: June 2023
 
-Pengui went on to do a PhD at PSL, in Paris, France.
+Pengrui went on to do a PhD at PSL, in Paris, France.
 
 <br><br>
