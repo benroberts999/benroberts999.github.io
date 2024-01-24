@@ -5,9 +5,9 @@ type: "Honours"
 current: false
 ---
 
-<!-- <div align="right" width="20%" style="border-style:transparent; border-width:250px;">
-  <img align="right" width="20%" src="{{site.baseurl}}/images/students/Flynn.jpg">
-</div> -->
+<div align="right" width="20%" style="border-style:transparent; border-width:25px;">
+  <img align="right" width="20%" src="{{site.baseurl}}/images/students/BenCarew.jpg">
+</div>
 
 Graduated: June 2022
 
@@ -26,3 +26,5 @@ Ben was then accepted into the Erasmus Mundus Joint Master Advanced Methods in P
 # Publications resulting from honours work
 
 * _The neutrino fog for dark matter-electron scattering experiments_, B. Carew, A. R. Caddell, T. N. Maity, C. A. J. O'Hare, [[arXiv:2312.04303](http://arxiv.org/abs/2312.04303)].
+
+Website: [bencarew.com](https://www.bencarew.com/)
