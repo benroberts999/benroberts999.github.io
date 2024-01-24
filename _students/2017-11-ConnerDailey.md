@@ -13,6 +13,8 @@ Graduated: May 2017
 
 **Thesis:** Initial Search Results for Dark Matter Using the GPS.DM Observatory
 
+Primary supervisor: Dr. Andrei Derevianko
+
 ### Publications during honors
 
 * B. M. Roberts, G. Blewitt, C. Dailey, M. Murphy, M. Pospelov, A. Rollings, J. Sherman, W. Williams, A. Derevianko, [Nature Commun. **8**, 1195 (2017)](http://dx.doi.org/10.1038/s41467-017-01440-4), [[arXiv:1704.06844](https://arxiv.org/abs/1704.06844)]
