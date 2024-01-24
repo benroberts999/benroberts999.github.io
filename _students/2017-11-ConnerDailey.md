@@ -19,3 +19,5 @@ Graduated: May 2017
 * B. M. Roberts, G. Blewitt, C. Dailey, A. Derevianko, [Phys. Rev. D **97**, 083009 (2018)](http://dx.doi.org/10.1103/PhysRevD.97.083009), [[arXiv:1803.10264](http://arxiv.org/abs/1803.10264)]
 
 Conner went on to a PhD position at University of Waterloo and the Perimeter Institute of Theoretical Physics
+
+Website: [taketwicedailey.com](https://taketwicedailey.com/)
