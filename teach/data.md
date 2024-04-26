@@ -1,4 +1,10 @@
-# COSC3000: Data Visualisation examples
+---
+layout: page
+title: Data Visualisation
+permalink: /teaching/data/
+---
+
+## COSC3000: Data Visualisation examples
 
 All course files and examples available on GitHub: [github.com/benroberts999/COSC3000](https://github.com/benroberts999/COSC3000)
 
