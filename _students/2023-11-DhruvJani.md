@@ -2,7 +2,7 @@
 name: "Dhruv Jani"
 university: "UQ"
 type: "Honours"
-current: true
+current: false
 ---
 
 <div align="right" width="20%" style="border-width:250px;">
