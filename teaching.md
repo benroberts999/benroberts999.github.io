@@ -23,3 +23,7 @@ permalink: /teaching/
 ## [Computational Workshops]({{ site.baseurl }}/teaching/compute/)
 
 * git and GitHub workshop
+
+## [Data Visualisation]({{ site.baseurl }}/teaching/data/)
+
+* COSC3000 Data Visualisation and Graphics
