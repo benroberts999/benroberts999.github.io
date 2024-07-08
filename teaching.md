@@ -16,9 +16,9 @@ permalink: /teaching/
 
 * PHYS4080 (Frontiers in Astrophysics)
 
-## [Foundations of Classical Mechanics]({{ site.baseurl }}/teaching/classicalmechanics/)
+## [Classical Mechanics and Field Theory]({{ site.baseurl }}/teaching/classicalmechanics/)
 
-* Introduction to foundations of Classical Mechanics
+* Introduction to foundations of Classical Mechanics and Classical Field Theory
 
 ## [Computational Workshops]({{ site.baseurl }}/teaching/compute/)
 
