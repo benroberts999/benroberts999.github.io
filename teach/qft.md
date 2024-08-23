@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introduction to Quantum Field Theory - scalar fields
-permalink: /teaching/qed/
+permalink: /teaching/qft/
 ---
 
 ## PHYS4040 (Quantum Field Theory - scalar fields)
