@@ -8,7 +8,11 @@ permalink: /teaching/
 
 * PHYS4070/7270 (Advanced Computational Physics)
 
-## [Introduction to Quantum Electrodynamics]({{ site.baseurl }}/teaching/qed/)
+## [Quantum Field Theory]({{ site.baseurl }}/teaching/qft/)
+
+* PHYS4040 (Quantum Field Theory)
+
+## [Relativistic Quantum Mechanics and Quantum Electrodynamics]({{ site.baseurl }}/teaching/qed/)
 
 * PHYS6004 (Advanced Quantum Field Theory)
 
