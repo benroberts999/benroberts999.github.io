@@ -9,7 +9,7 @@ current: true
   <img align="right" width="20%" src="{{site.baseurl}}/images/students/Carter.jpg">
 </div>
 
-Carter works on extending methods for high-precission atomic structure calculations for fundamental physics studies. Primary supervisor: Dr. Jacinda Ginges.
+Carter works on extending methods for high-precission atomic structure calculations for fundamental physics studies, particularly the high-accuracy inclusion of radiative QED effects into many-body atomic structure calculations. Primary supervisor: Dr. Jacinda Ginges.
 
 ### Publications during PhD
 
