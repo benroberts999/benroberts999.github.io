@@ -11,3 +11,7 @@ Jayden works on high-precission atomic structure calculations for fundamental ph
 ### Publications during PhD
 
 * _Vacuum polarization corrections to hyperfine structure in many-electron atoms_, J. C. Hasted, C. J. Fairhall, O. R. Smits, B. M. Roberts, J. S. M. Ginges, [[arXiv:2409.17979](http://arxiv.org/abs/2409.17979)]
+
+### Conferences/Worskhops during PhD
+
+* AIP (Australian Institute of Physics) Congress (poster), Melbourne, 2024

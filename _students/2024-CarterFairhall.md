@@ -19,6 +19,8 @@ Carter works on extending methods for high-precission atomic structure calculati
 
 ### Conferences/Worskhops during PhD
 
+* AIP (Australian Institute of Physics) Congress (poster), Melbourne, 2024
+* 14th REHE Conference (talk), Amersfoort, The Netherlands, 2024
 * AIP (Australian Institute of Physics) Summer Meeting (talk), ANU, 2023
 * 9th Symposium on Frequency Standards and Metrology (poster), Kingsclif NSW, 2023
 * AIP (Australian Institute of Physics) Congress (poster), Adelaide, 2022

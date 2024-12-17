@@ -2,7 +2,7 @@
 name: "Jack Easton"
 university: "UQ"
 type: "Honours"
-current: false
+current: true
 ---
 
 <div align="right" width="20%" style="border-style:transparent; border-width:25px;">

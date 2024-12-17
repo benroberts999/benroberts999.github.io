@@ -19,6 +19,8 @@ Ashlee works on developing methods for searching for dark matter and exotic phys
 
 ### Conferences/Worskhops during PhD
 
+* AIP (Australian Institute of Physics) Congress (talk), Melbourne, 2024
+* APS April Meeting (talk, virtual), Sacremento USA, 2024
 * AIP (Australian Institute of Physics) Summer Meeting (talk), ANU, 2023
 * 9th Symposium on Frequency Standards and Metrology (poster), Kingsclif NSW, 2023
 * ASA (Astronomical Society of Australia) ASM (poster), 2023
