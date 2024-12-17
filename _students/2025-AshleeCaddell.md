@@ -14,7 +14,7 @@ Ashlee works on developing methods for searching for dark matter and exotic phys
 ### Publications during PhD
 
 * _Ultralight Dark Matter Search with Space-Time Separated Atomic Clocks and Cavities_, M. Filzinger, A. R. Caddell, D. Jani, M. Steinel, L. Giani, N. Huntemann, and B. M. Roberts, [[arXiv:2312.13723](http://arxiv.org/abs/2312.13723)].
-* _The neutrino fog for dark matter-electron scattering experiments_, B. Carew, A. R. Caddell, T. N. Maity, C. A. J. O'Hare, [[arXiv:2312.04303](http://arxiv.org/abs/2312.04303)].
+* _The neutrino fog for dark matter-electron scattering experiments_, B. Carew, A. R. Caddell, T. N. Maity, C. A. J. O'Hare, [Phys. Rev. D **109**, 083016 (2024)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.083016), [[arXiv:2312.04303](http://arxiv.org/abs/2312.04303)].
 * _Accurate electron-recoil ionization factors for dark matter direct detection in xenon, krypton, and argon_, A. R. Caddell, V. V. Flambaum, and B. M. Roberts, [Phys. Rev. D **108**, 083030 (2023)](https://link.aps.org/doi/10.1103/PhysRevD.108.083030), [[arXiv:2305.05125](http://arxiv.org/abs/2305.05125)].
 
 ### Conferences/Worskhops during PhD
