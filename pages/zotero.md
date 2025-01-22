@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Quantum Field Theory
+title: Zotero
 permalink: /pages/zotero/
 ---
-
-# Zotero
 
 Zotero is...
 
