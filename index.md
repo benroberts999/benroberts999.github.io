@@ -4,7 +4,7 @@ layout: page
 
 <img align="right" width="45%" src="{{ site.baseurl }}/images/ben.jpg" border="500">
 
-**_ARC DECRA Fellow, University of Queensland, Australia._**
+**_Amplify Senior Lecturer, University of Queensland, Australia._**
 Working in theoretical atomic physics and particle astrophysics. Previously at
 [SYRTE, the Observatoire de Paris](https://syrte.obspm.fr),
 France, working on possibilities for dark matter detection using high-precision atomic clocks, and the University of Nevada, Reno, as part of the
@@ -22,7 +22,6 @@ in theoretical atomic physics from UNSW, Australia, in Sydney.
   * [InspireHEP: B.M.Roberts.1](http://inspirehep.net/author/profile/B.M.Roberts.1)
   * [ADS publications page](https://ui.adsabs.harvard.edu/public-libraries/vWzKbWxgTBqzF8vVh78nAQ)
 * [UQ researcher page](https://researchers.uq.edu.au/researcher/24237)
-<!-- * [Slides/Presentations]({{ site.baseurl }}/talks) -->
 * AMPSCI (atomic structure code): [ampsci.dev/](https://ampsci.dev/)
 * GitHub: [github.com/benroberts999](https://github.com/benroberts999)
 * Contact me: b.roberts [@] uq.edu.au

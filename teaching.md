@@ -8,7 +8,8 @@ permalink: /teaching/
 
 * PHYS4070 (Advanced Computational Physics)
   * Introduction to C++ for scientific computing
-  * Some basic many-body perturbation theory, through to Hartree-Fock method
+  * Introduction to computational atomic physics
+  * Basic many-body perturbation theory, through to Hartree-Fock method
 
 ## [Quantum Field Theory]({{ site.baseurl }}/teaching/qft/)
 
