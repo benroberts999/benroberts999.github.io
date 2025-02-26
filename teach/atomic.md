@@ -25,6 +25,7 @@ which are available in the library.
 
 ## Lecture Notes
 
+* 00: [Introduction to computational physics](https://broberts.io/live-slides/phys4070/L01-intro.html)
 * 01: [Hydrogenlike atoms]({{ site.baseurl }}/teach/atomic/01-Atomic-Hydrogen.pdf)
 * 02: [Numerical integration]({{ site.baseurl }}/teach/atomic/02-Atomic-Integration.pdf)
 * 03: [Multi-electron atoms]({{ site.baseurl }}/teach/atomic/03-Atomic-HartreeFock.pdf)
@@ -33,7 +34,7 @@ which are available in the library.
 
 * [Hartree-Fock for Li]({{ site.baseurl }}/teach/atomic/Project1-Atomic-2023.pdf)
 
-## Worksheets and basic C++ tutorials
+## Worksheets and basic C++ tutorials (from 2023)
 
 * 01: Introduction, getting up and running: [WS01-Introduction.pdf]({{ site.baseurl }}/teach/atomic/WS01-Introduction.pdf)
   * Quick start guide: [QuickStart.pdf]({{ site.baseurl }}/teach/atomic/QuickStart.pdf)
