@@ -6,7 +6,7 @@ current: true
 ---
 
 <div align="right" width="20%" style="border-style:transparent; border-width:25px;">
-  <img align="right" width="20%" src="{{site.baseurl}}/images/students/AshleeCaddell.jpg">
+  <img align="right" width="20%" src="{{site.baseurl}}/images/students/AshleeCaddell2.jpg">
 </div>
 
 Ashlee works on developing methods for searching for dark matter and exotic physics using atomic phenomena.
