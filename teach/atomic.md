@@ -30,6 +30,10 @@ which are available in the library.
 * 02: [Numerical integration]({{ site.baseurl }}/teach/atomic/02-Atomic-Integration.pdf)
 * 03: [Multi-electron atoms]({{ site.baseurl }}/teach/atomic/03-Atomic-HartreeFock.pdf)
 
+## OpenMP in C++
+
+* [Lecture Slides](https://docs.google.com/presentation/d/1NnCRmyLadHauEqx10UKHCW2relgTla8fAI3oFAeYmVg/edit?usp=sharing)
+
 ## Project (first assignment from 2023)
 
 * [Hartree-Fock for Li]({{ site.baseurl }}/teach/atomic/Project1-Atomic-2023.pdf)
