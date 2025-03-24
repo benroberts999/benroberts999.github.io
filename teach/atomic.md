@@ -44,7 +44,7 @@ which are available in the library.
   * Quick start guide: [QuickStart.pdf]({{ site.baseurl }}/teach/atomic/QuickStart.pdf)
 * 02: Matrices, solving eigenvalue problem for Hydrogen [WS02-MatrixEigensystems.pdf]({{ site.baseurl }}/teach/atomic/WS02-MatrixEigensystems.pdf)
   * Arrays in C++: [Tutorial_Array-Vector.pdf]({{ site.baseurl }}/teach/atomic/Tutorial_Array-Vector.pdf)
-  * Classes in C++: [Tutorial_Classes.pdf]({{ site.baseurl }}/teach/atomic/Tutorial_Classesr.pdf)
+  * Classes in C++: [Tutorial_Classes.pdf]({{ site.baseurl }}/teach/atomic/Tutorial_Classes.pdf)
 * 03: [WS03-Integration.pdf]({{ site.baseurl }}/teach/atomic/WS03-Integration.pdf)
   * Functions, templates, lambdas in C++: [Tutorial_FunctionsTemplatesFunctional.pdf]({{ site.baseurl }}/teach/atomic/Tutorial_FunctionsTemplatesFunctional.pdf)
 
