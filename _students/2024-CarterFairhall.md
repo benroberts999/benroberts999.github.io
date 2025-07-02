@@ -2,7 +2,7 @@
 name: "Carter Fairhall"
 university: "UQ"
 type: "PhD"
-current: true
+current: false
 ---
 
 <div align="right" width="20%" style="border-style:transparent; border-width:25px;">
