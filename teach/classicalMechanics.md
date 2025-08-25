@@ -14,7 +14,9 @@ An introduction to foundations of Classical Mechanics and Classical Field Theory
 * [Classical Field Theory]({{ site.baseurl }}/teach/classical/02-Fields-BMRoberts.pdf)
   * Relativity: invariance of the interval, Lorentz transformations etc.
   * Classical field theory: scalar and vector fields, interactions
-  * Electrodynamics, covariant Maxwell's equations, EM waves
+  * Electrodynamics, covariant Maxwell's equations
+  * EM waves and radiation
+  * Motivation for general relativity:
 
 ## Texts
 
