@@ -21,6 +21,4 @@ In particular, for low-energy tests of the Standard Model, and searches for fund
 
 **Honours Thesis:** Theoretical calculation of Stark-induced polarisabilities in heavy alkali atoms for low energy tests of the Standard Model
 
-<br><br>
 
-<br><br>

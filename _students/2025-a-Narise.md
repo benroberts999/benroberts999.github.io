@@ -5,7 +5,14 @@ type: "PhD"
 current: true
 ---
 
-Narise works on dark matter and astroparticle phenomenology, including atomic methods for dark matter detection
+<div align="right" width="30%">
+  <img align="right" 
+  width="30%" 
+  src="{{site.baseurl}}/images/students/Narise-20251113-IMG_6699.jpg"
+  style="padding: 10px;">
+</div>
+
+Narise works on dark matter and astroparticle phenomenology, including developing new methods for dark matter detection by general atomic scattering and absorption
 
 ### Conferences/Worskhops during PhD
 
@@ -13,6 +20,4 @@ Narise works on dark matter and astroparticle phenomenology, including atomic me
 
 **Honours Thesis:** The direct detection of dark photons beyond the electric-dipole approximation
 
-<br><br>
 
-<br><br>
