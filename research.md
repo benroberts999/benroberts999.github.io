@@ -14,16 +14,6 @@ Research in theoretical atomic physics and particle astrophysics. My work focuss
 </div>
 <div style="clear:both"></div>
 
-### Available projects at UQ (PhD, masters, honours, and undergraduate)
-
-* Atomic physics as a probe of the Standard Model at low energies
-* Development of high-precision atomic structure methods
-* Theoretical characterisation of systems for the development of atomic clocks
-* Enlightening the search for dark matter (and other exotic physics)
-* For more details, see: [researchers.uq.edu.au/researcher/24237](https://researchers.uq.edu.au/researcher/24237)
-* Projects are flexible and other projects are available, contact me with any questions
-* Formal applications are made through the University of Queensland -- [smp.uq.edu.au/study/higher-degree-research](https://smp.uq.edu.au/study/higher-degree-research). Feel free to contact me directly with any questions
-
 ### Links
 
 * [Brief CV (pdf)]({{ site.baseurl }}/docs/cv-RobertsBM.pdf)

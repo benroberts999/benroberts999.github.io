@@ -6,7 +6,10 @@ current: true
 ---
 
 <div align="right" width="20%" style="border-style:transparent; border-width:25px;">
-  <img align="right" width="20%" src="{{site.baseurl}}/images/students/JackEaston.jpg">
+  <img align="right" 
+  width="20%" 
+  src="{{site.baseurl}}/images/students/Jack-20251113-IMG_6773.jpg"
+  style="padding: 20px;">
 </div>
 
 Jack works on developing and extending high-precission atomic structure theory methods for applications in fundamental physics.

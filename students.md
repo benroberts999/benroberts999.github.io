@@ -4,6 +4,14 @@ title: Students
 permalink: /students/
 ---
 
+<div style="border-style:transparent; border-width:250px;">
+  <img align="center" width="95%" src="{{site.baseurl}}/images/Group-20251113-IMG_6722.jpg">
+    <div>
+      <span><font size="0.25">  <i>UQ, 2025</i></font></span >
+    </div>  
+</div>
+<div style="clear:both"></div>
+
 ### Available projects at UQ (PhD, masters, honours, and undergraduate)
 
 * Atomic physics as a probe of the Standard Model at low energies
