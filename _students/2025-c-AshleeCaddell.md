@@ -22,6 +22,7 @@ Ashlee works on developing methods for searching for dark matter and exotic phys
 
 * ICPEAC, International Conference on Photonic, Electronic, and Atomic Collisions, Japan, 2025
 * Quantum Year National Tour - Poster Session, QUT, Brisbane, 2025
+* Pint of Science outreach talk, _Atomic approaches to dethrone the hide-and-seek champion of the Universe_, Brisbane, 2025
 * AIP (Australian Institute of Physics) Congress (talk), Melbourne, 2024
 * APS April Meeting (talk, virtual), Sacremento USA, 2024
 * AIP (Australian Institute of Physics) Summer Meeting (talk), ANU, 2023

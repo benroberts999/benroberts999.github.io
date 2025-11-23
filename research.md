@@ -14,6 +14,13 @@ Research in theoretical atomic physics and particle astrophysics. My work focuss
 </div>
 <div style="clear:both"></div>
 
+### Grants
+
+* 2025 - ARC Discovery Project DP250103374: _Nuclear structure and precision tests of fundamental physics in atoms_, with Dr. Jacinda Ginges (UQ), and Dr. Natalia Oreshkina (MPI)
+* 2023 - Big Questions Institute Fellowship: _Are the laws of physics the same everywhere in the universe?_
+* 2023 - ARC Discovery Project DP230101685: _Probing new physics with atomic parity violation_, with Dr. Jacinda Ginges (UQ), and Dr. Magdalena Kowalska (ISOLDE, CERN)
+* 2021 - ARC Early Career Research Award (DECRA) DE210101026: _Atomic physics as a probe for fundamental physics and dark matter_
+
 ### Links
 
 * [Brief CV (pdf)]({{ site.baseurl }}/docs/cv-RobertsBM.pdf)
