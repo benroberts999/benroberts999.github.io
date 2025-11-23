@@ -15,4 +15,4 @@ Graduated: June 2023
 
 Pengrui went on to postgraduate study in Paris, France.
 
-<br><br>
+<br>

@@ -34,7 +34,7 @@ permalink: /students/
 {% if student.type == "PhD" %}
 <article class="post">
 
-  <h2>{{ student.name }} ({{ student.type }} student, {{ student.university }})</h2>
+  <h2>{{ student.name }} ({{ student.type }} candidate, {{ student.university }})</h2>
   <div class="entry">
     {{ student.content }}
     <hr>
@@ -57,7 +57,7 @@ permalink: /students/
 {% if student.type != "PhD" %}
 <article class="post">
 
-  <h2>{{ student.name }} ({{ student.type }} student, {{ student.university }})</h2>
+  <h2>{{ student.name }} ({{ student.type }}, {{ student.university }})</h2>
   <div class="entry">
     {{ student.content }}
     <hr>
@@ -79,7 +79,7 @@ permalink: /students/
 {% for student in tstudentC %}
 <article class="post">
 
-  <h2>{{ student.name }} ({{ student.type }} student, {{ student.university }})</h2>
+  <h2>{{ student.name }} ({{ student.type }}, {{ student.university }})</h2>
   <div class="entry">
     {{ student.content }}
     <hr>

@@ -9,7 +9,9 @@ current: true
   <img align="right" width="25%" src="{{site.baseurl}}/images/students/Robin.jpg" style="padding: 10px;">
 </div>
 
-**Project:** Theoretical study of atomic systems for the development of atomic clocks
+Robin works on extending and applying computational methods for high-accuracy calculations of atomic systems and for the theoretical study of atomic systems for the development of atomic clocks.
+
+**Mater's Thesis:** Computational study of Ra$^+$ and Sr$^+$ for the development of optical atomic clocks
 
 ### Publications during masters
 

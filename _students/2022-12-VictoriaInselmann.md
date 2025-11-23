@@ -16,4 +16,3 @@ Co-Supervised with Prof. Tamara Davis
 **Thesis:** Black hole entropy with varying constants of nature
 
 <br>
-<br>
