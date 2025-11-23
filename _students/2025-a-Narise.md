@@ -5,9 +5,9 @@ type: "PhD"
 current: true
 ---
 
-<div align="right" width="30%">
+<div align="right" width="37%">
   <img align="right" 
-  width="30%" 
+  width="37%" 
   src="{{site.baseurl}}/images/students/Narise-20251113-IMG_6699.jpg"
   style="padding: 10px;">
 </div>

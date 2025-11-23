@@ -5,8 +5,8 @@ type: "Honours"
 current: false
 ---
 
-<div align="right" width="20%" style="border-width:250px;">
-  <img align="right" width="20%" src="{{site.baseurl}}/images/students/Dhruv.jpg">
+<div align="right" width="37%">
+  <img align="right" width="37%" src="{{site.baseurl}}/images/students/Dhruv.jpg" style="padding: 10px;">
 </div>
 
 **Thesis:** Detection of Gravitational Waves and Dark Matter using terrestrial based Optical Atomic Clocks

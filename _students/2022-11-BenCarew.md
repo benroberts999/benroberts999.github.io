@@ -5,8 +5,8 @@ type: "Honours"
 current: false
 ---
 
-<div align="right" width="20%" style="border-style:transparent; border-width:25px;">
-  <img align="right" width="20%" src="{{site.baseurl}}/images/students/BenCarew.jpg">
+<div align="right" width="30%" style="border-style:transparent; border-width:25px;">
+  <img align="right" width="30%" src="{{site.baseurl}}/images/students/BenCarew.jpg">
 </div>
 
 Graduated: June 2022

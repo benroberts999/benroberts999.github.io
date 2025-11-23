@@ -5,8 +5,8 @@ type: "Honours"
 current: false
 ---
 
-<div align="right" width="20%" style="border-width:2500px;">
-  <img style="border:10px;" align="right" width="20%" src="{{site.baseurl}}/images/students/Victoria-small.jpg">
+<div align="right" width="30%" style="border-width:2500px;">
+  <img style="border:10px;" align="right" width="30%" src="{{site.baseurl}}/images/students/Victoria-small.jpg">
 </div>
 
 Graduated: December 2022

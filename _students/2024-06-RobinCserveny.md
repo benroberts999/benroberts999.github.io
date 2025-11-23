@@ -5,8 +5,8 @@ type: "Masters"
 current: true
 ---
 
-<div align="right" width="30%">
-  <img align="right" width="30%" src="{{site.baseurl}}/images/students/Robin.jpg" style="padding: 10px;">
+<div align="right" width="40%">
+  <img align="right" width="40%" src="{{site.baseurl}}/images/students/Robin.jpg" style="padding: 10px;">
 </div>
 
 Robin works on extending and applying computational methods for high-accuracy calculations of atomic systems and for the theoretical study of atomic systems for the development of atomic clocks.
