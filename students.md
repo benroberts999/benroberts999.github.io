@@ -5,7 +5,7 @@ permalink: /students/
 ---
 
 <div style="border-style:transparent; border-width:250px;">
-  <img align="center" width="95%" src="{{site.baseurl}}/images/Group-20251113-IMG_6722.jpg">
+  <img align="center" width="100%" src="{{site.baseurl}}/images/Group-20251113-IMG_6722.jpg">
     <div>
       <span><font size="0.25">  <i>UQ, 2025</i></font></span >
     </div>  

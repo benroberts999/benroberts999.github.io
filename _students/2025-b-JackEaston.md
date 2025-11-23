@@ -5,11 +5,11 @@ type: "PhD"
 current: true
 ---
 
-<div align="right" width="20%">
+<div align="right" width="30%">
   <img align="right" 
-  width="25%" 
+  width="30%" 
   src="{{site.baseurl}}/images/students/Jack-20251113-IMG_6773.jpg"
-  style="padding: 20px;">
+  style="padding: 10px;">
 </div>
 
 Jack works on developing and extending high-precission atomic structure theory methods for applications in fundamental physics.

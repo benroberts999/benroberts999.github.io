@@ -5,8 +5,8 @@ type: "Masters"
 current: true
 ---
 
-<div align="right" width="20%" style="border-style:transparent; border-width:25px;">
-  <img align="right" width="20%" src="{{site.baseurl}}/images/students/Robin.jpg">
+<div align="right" width="25%">
+  <img align="right" width="25%" src="{{site.baseurl}}/images/students/Robin.jpg" style="padding: 10px;">
 </div>
 
 **Project:** Theoretical study of atomic systems for the development of atomic clocks
