@@ -7,7 +7,7 @@ host: "École de physique des Houches"
 
 <div style="border-style:transparent; border-width:4px;">
   <!-- <img align="center" width="95%" src="{{ site.baseurl }}/images/LesHouches2023.jpg"> -->
-  <img align="center" width="100%" src="../images/LesHouches2023-Group.jpg">
+  <img align="center" width="100%" src="../images/LesHouches2023-Group-small.jpg">
     <div>
       <span><font size="1">  <i>Les Houches, 2023</i></font></span >
     </div>  
