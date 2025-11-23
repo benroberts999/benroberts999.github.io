@@ -5,9 +5,9 @@ type: "PhD"
 current: true
 ---
 
-<div align="right" width="20%" style="border-style:transparent; border-width:25px;">
+<div align="right" width="20%">
   <img align="right" 
-  width="20%" 
+  width="25%" 
   src="{{site.baseurl}}/images/students/Jack-20251113-IMG_6773.jpg"
   style="padding: 20px;">
 </div>
