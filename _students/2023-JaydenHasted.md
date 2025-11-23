@@ -12,7 +12,9 @@ current: true
   style="padding: 10px;">
 </div>
 
-Jayden works on high-precision atomic structure calculations for fundamental physics studies, in particular, high-precision calculations of atomic polarisabilities and hyperfine structure. Primary supervisor: Dr. Jacinda Ginges.
+Jayden works on high-precision atomic structure calculations for fundamental physics studies, in particular, high-precision calculations of atomic polarisabilities and hyperfine structure. 
+
+Primary supervisor: Dr. Jacinda Ginges.
 
 ### Publications during PhD
 

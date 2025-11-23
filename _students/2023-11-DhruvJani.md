@@ -13,4 +13,6 @@ current: false
 
 ### Publications during honours
 
-* _Ultralight Dark Matter Search with Space-Time Separated Atomic Clocks and Cavities_, M. Filzinger, A. R. Caddell, D. Jani, M. Steinel, L. Giani, N. Huntemann, and B. M. Roberts, [[arXiv:2312.13723](http://arxiv.org/abs/2312.13723)].
+* _Ultralight Dark Matter Search with Space-Time Separated Atomic Clocks and Cavities_, M. Filzinger, A. R. Caddell, D. Jani, M. Steinel, L. Giani, N. Huntemann, and B. M. Roberts, [Physical Review Letters **134**, 031001 (2025)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.031001), [[arXiv:2312.13723](http://arxiv.org/abs/2312.13723)].
+
+Dhruv went on to study at ANU, Canberra.

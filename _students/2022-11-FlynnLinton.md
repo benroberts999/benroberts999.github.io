@@ -6,7 +6,7 @@ current: false
 ---
 
 <div align="right" width="20%" style="border-style:transparent; border-width:250px;">
-  <img align="right" width="20%" src="{{site.baseurl}}/images/students/Flynn.jpg">
+  <img align="right" width="20%" src="{{site.baseurl}}/images/students/Flynn.jpg" style="padding: 10px;">
 </div>
 
 Graduated: June 2022
