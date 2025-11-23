@@ -5,8 +5,8 @@ type: "Honours"
 current: false
 ---
 
-<div align="right" width="30%" style="border-style:transparent; border-width:250px;">
-  <img align="right" width="30%" src="{{site.baseurl}}/images/students/Flynn.jpg" style="padding: 10px;">
+<div align="right" width="25%" style="border-style:transparent; border-width:250px;">
+  <img align="right" width="25%" src="{{site.baseurl}}/images/students/Flynn.jpg" style="padding: 10px;">
 </div>
 
 Graduated: June 2022

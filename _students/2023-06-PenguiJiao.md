@@ -5,8 +5,8 @@ type: "Honours"
 current: false
 ---
 
-<div align="right" width="30%">
-  <img style="border:10px;" align="right" width="30%" src="{{site.baseurl}}/images/students/Pengrui.jpg" style="padding: 10px;">
+<div align="right" width="25%">
+  <img style="border:10px;" align="right" width="25%" src="{{site.baseurl}}/images/students/Pengrui.jpg" style="padding: 10px;">
 </div>
 
 **Thesis:** Dynamic Breit Correction to Atomic Energy Levels
