@@ -18,4 +18,6 @@ Graduated: June 2022
 * ACUR student conference 2022 (talk)
 * AIP (Australian Institute of Physics) Summer Meeting (poster), QUT, 2021
 
-Flynn went on to a Masters position at ETH Zurich, Switzerland.
+Flynn went on to complete his Masters at at ETH Zurich, Switzerland, and then into the PhD program at Monash, Melbourne
+
+<!-- https://career-profiles.science.uq.edu.au/flynn-linton -->

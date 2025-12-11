@@ -6,8 +6,8 @@ current: true
 ---
 
 <div align="right" width="37%">
-  <img align="right" 
-  width="37%" 
+  <img align="right"
+  width="37%"
   src="{{site.baseurl}}/images/students/Narise-20251113-IMG_6699.jpg"
   style="padding: 10px;">
 </div>
@@ -16,8 +16,7 @@ Narise works on dark matter and astroparticle phenomenology, including developin
 
 ### Conferences/Worskhops during PhD
 
+* AIP (Australian Institute of Physics) Summer Meeting (talk and poster), Wollongong, 2025
 * Quantum Year National Tour - Poster Session, QUT, Brisbane, 2025
 
 **Honours Thesis:** The direct detection of dark photons beyond the electric-dipole approximation
-
-
