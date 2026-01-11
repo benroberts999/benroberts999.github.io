@@ -29,7 +29,7 @@ permalink: /students/
 <hr>
 
 <div class="entry">
-{% assign tstudent = site.students | reverse | where:'current', true %}
+{% assign tstudent = site.students | where:'current', true %}
 {% for student in tstudent %}
 {% if student.type == "PhD" %}
 <article class="post">
