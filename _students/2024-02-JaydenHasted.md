@@ -3,7 +3,7 @@ name: "Jayden Hasted"
 university: "UQ"
 type: "PhD"
 current: true
-cosupervised: true
+cosupervised: "yes"
 ---
 
 <div align="right" width="37%">

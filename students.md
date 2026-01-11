@@ -32,7 +32,7 @@ permalink: /students/
 {% assign tstudent = site.students | where:'current', true %}
 {% for student in tstudent %}
 {% if student.type == "PhD" %}
-{% if student.cosupervised != "true" %}
+{% if student.cosupervised != "yes" %}
 <article class="post">
 
   <h2>{{ student.name }} ({{ student.type }} candidate, {{ student.university }})</h2>
@@ -51,7 +51,7 @@ permalink: /students/
 {% assign tstudent = site.students | where:'current', true %}
 {% for student in tstudent %}
 {% if student.type == "PhD" %}
-{% if student.cosupervised == "true" %}
+{% if student.cosupervised == "yes" %}
 <article class="post">
 
   <h2>{{ student.name }} ({{ student.type }} candidate, {{ student.university }})</h2>
