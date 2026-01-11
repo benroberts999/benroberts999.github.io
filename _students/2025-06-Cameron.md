@@ -1,7 +1,7 @@
 ---
 name: "Cameron West"
 university: "UQ"
-type: "Honours"
+type: "PhD"
 current: true
 ---
 
