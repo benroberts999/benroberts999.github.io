@@ -17,6 +17,8 @@ In particular, for low-energy tests of the Standard Model, and searches for fund
 
 ### Conferences/Worskhops during PhD
 
+* Nuclear and Particle Physics summer school, Sydney, 2026 (poster)
+  * Poster prize
 * AIP (Australian Institute of Physics) Summer Meeting (talk), Wollongong, 2025
 * Search for new physics with low-energy precision tests, Summer School, University of Groningen, NL, 2025
 

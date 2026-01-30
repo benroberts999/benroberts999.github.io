@@ -7,13 +7,13 @@ cosupervised: "yes"
 ---
 
 <div align="right" width="37%">
-  <img align="right" 
-  width="37%" 
+  <img align="right"
+  width="37%"
   src="{{site.baseurl}}/images/students/Jayden-20251113-IMG_6798.jpg"
   style="padding: 10px;">
 </div>
 
-Jayden works on high-precision atomic structure calculations for fundamental physics studies, in particular, high-precision calculations of atomic polarisabilities and hyperfine structure. 
+Jayden works on high-precision atomic structure calculations for fundamental physics studies, in particular, high-precision calculations of atomic polarisabilities and hyperfine structure.
 
 Primary supervisor: Dr. Jacinda Ginges.
 
@@ -23,4 +23,6 @@ Primary supervisor: Dr. Jacinda Ginges.
 
 ### Conferences/Worskhops during PhD
 
+* Nuclear and Particle Physics summer school, Sydney, 2026 (poster)
+* AIP (Australian Institute of Physics) Summer Meeting, Wollongong, 2025
 * AIP (Australian Institute of Physics) Congress (poster), Melbourne, 2024
