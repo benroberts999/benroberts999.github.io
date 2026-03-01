@@ -4,14 +4,18 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## [Computational Atomic Physics]({{ site.baseurl }}/teaching/atomic/)
+## [Computational Physics]({{ site.baseurl }}/teaching/atomic/)
 
 * PHYS4070 (Advanced Computational Physics)
   * Introduction to C++ for scientific computing
-  * Introduction to computational atomic physics
-  * ODEs, basis diagonalisation methods, numerical integration
-  * From Hydrogen-like atoms, basic many-body perturbation theory, through to the self-consistant Hartree-Fock method
+  * Gravitational wave detection 
+    * Fourier methods, data analysis, signal matching
+    * Monte-Carlo, likelihoods, parameter estimation
+  * Computational Atomic Physics
+    * Hydrogen-like atoms, basic many-body perturbation theory, self-consistant Hartree-Fock method
+    * ODEs, basis diagonalisation methods, numerical integration
   * OpenMP, multi-threading and paralellisation
+  * Unit testing and professional code development
 
 ## [Quantum Field Theory]({{ site.baseurl }}/teaching/qft/)
 
