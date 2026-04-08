@@ -1,10 +1,21 @@
 ---
 layout: page
-title: Computational Atomic Physics
+title: Computational Physics
 permalink: /teaching/atomic/
 ---
 
 ## PHYS4070/7270 (Advanced Computational Physics)
+
+## Lecture Slides: part 1 - Gravitational Wave Project
+
+* 00: [Introduction to computational physics](https://broberts.io/live-slides/phys4070/L01-intro.html)
+* 01: [Gravitational Waves and Fourier Techniques](https://docs.google.com/presentation/d/1rF6cVHkQZIlu60oC2PPQ-bzPN8b9fjytwWNi1xZYwi0/edit?usp=sharing)
+* 02: [Unit Tests](https://docs.google.com/presentation/d/1jzRiuklopzfa0J3_-kgqxhMKeeRMuJIkRam_qItj9gs/edit?usp=sharing)
+* 03: [Likelihoods, Parameter Estimation, and Monte-Carlo](https://docs.google.com/presentation/d/1igZXithQuJ-3-n4aMqPqLII-WqYRIK7XySt6rdWjK1s/edit?usp=sharing)
+    * [Extra notes]({{ site.baseurl }}/teach/compute/DetectionStatistics.md) -- formulas and derivations
+* 04: [Parallelisation, OpenMP](https://docs.google.com/presentation/d/1NnCRmyLadHauEqx10UKHCW2relgTla8fAI3oFAeYmVg/edit?usp=sharing)
+
+## Lecture Notes: part 2 - Atomic Physics, Hartree-Fock
 
 Important to note: this is **not** a general overview to atomic physics.
 There are many extremely important topics I am not discussing at all, e.g., spin-orbit effect, theory of angular momentum addition and coupling etc., which are crucial for understanding quantum mechanics of atoms.
@@ -23,23 +34,18 @@ which are available in the library.
   3. I. I. Sobelman, Atomic Spectra and Radiative Transitions (1992)
   4. H. A. Bethe and E. E. Salpeter, Quantum Mechanics of One-and Two-Electron Atoms (1977)
 
-## Lecture Notes
-
-* 00: [Introduction to computational physics](https://broberts.io/live-slides/phys4070/L01-intro.html)
 * 01: [Hydrogenlike atoms]({{ site.baseurl }}/teach/atomic/01-Atomic-Hydrogen.pdf)
 * 02: [Numerical integration]({{ site.baseurl }}/teach/atomic/02-Atomic-Integration.pdf)
 * 03: [Multi-electron atoms]({{ site.baseurl }}/teach/atomic/03-Atomic-HartreeFock.pdf)
 
-## OpenMP in C++
-
-* [Lecture Slides](https://docs.google.com/presentation/d/1NnCRmyLadHauEqx10UKHCW2relgTla8fAI3oFAeYmVg/edit?usp=sharing)
-
 ## Project (first assignment from 2023)
 
+* See blackboard for current up-to-date project sheets and worksheets
 * [Hartree-Fock for Li]({{ site.baseurl }}/teach/atomic/Project1-Atomic-2023.pdf)
 
-## Worksheets and basic C++ tutorials (from 2023)
+## Select worksheets and basic C++ tutorials (from 2023)
 
+* See blackboard for current up-to-date project sheets and worksheets
 * 01: Introduction, getting up and running: [WS01-Introduction.pdf]({{ site.baseurl }}/teach/atomic/WS01-Introduction.pdf)
   * Quick start guide: [QuickStart.pdf]({{ site.baseurl }}/teach/atomic/QuickStart.pdf)
 * 02: Matrices, solving eigenvalue problem for Hydrogen [WS02-MatrixEigensystems.pdf]({{ site.baseurl }}/teach/atomic/WS02-MatrixEigensystems.pdf)

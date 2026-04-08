@@ -8,7 +8,9 @@ permalink: /teaching/qft/
 
 First part of the course, focus on quantising scalar fields
 
-### Lecture Notes
+### Whiteboards from the 2024 lectures
+
+The lectures follow the course notes quite closely, and cover much the same material as David Tong's lecture notes (linked below).
 
 * [Klein Gordon feild]({{ site.baseurl }}/teach/qft/01-Klein-Gordon.pdf)
   * Introduction to QFT: from classical to quantum to quantum fields
@@ -20,6 +22,11 @@ First part of the course, focus on quantising scalar fields
 * [Noether's Theorem]({{ site.baseurl }}/teach/qft/04-Noether.pdf)
   * Symmetries, conservation laws and Noether's theorem
   * Transformations, representations, and generators
+
+See also:
+
+* [Retarded Green's functions: electrodynamics]({{ site.baseurl }}/teach/qft/RetardedGreensFunction_Electrodynamics.pdf)
+  * Discussion and derivation of Green's functions and retarded potentials in relativistic classical electrodynamics
 
 ### Background
 

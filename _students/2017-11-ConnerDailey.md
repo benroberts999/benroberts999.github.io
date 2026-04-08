@@ -20,6 +20,6 @@ Primary supervisor: Dr. Andrei Derevianko
 * B. M. Roberts, G. Blewitt, C. Dailey, M. Murphy, M. Pospelov, A. Rollings, J. Sherman, W. Williams, A. Derevianko, [Nature Commun. **8**, 1195 (2017)](http://dx.doi.org/10.1038/s41467-017-01440-4), [[arXiv:1704.06844](https://arxiv.org/abs/1704.06844)]
 * B. M. Roberts, G. Blewitt, C. Dailey, A. Derevianko, [Phys. Rev. D **97**, 083009 (2018)](http://dx.doi.org/10.1103/PhysRevD.97.083009), [[arXiv:1803.10264](http://arxiv.org/abs/1803.10264)]
 
-Conner went on to a PhD position at University of Waterloo and the Perimeter Institute of Theoretical Physics
+Conner went on to a PhD position at University of Waterloo and the Perimeter Institute for Theoretical Physics
 
 Website: [taketwicedailey.com](https://taketwicedailey.com/)

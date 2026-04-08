@@ -7,22 +7,23 @@ permalink: /research/
 Research in theoretical atomic physics and particle astrophysics. My work focusses on high-precision atomic structure calculations, and how atomic processes can be used for testing fundamental theories, probing for physics beyond the standard model, and searching for dark matter.
 
 <div style="border-style:transparent; border-width:250px;">
-  <img align="center" width="95%" src="{{site.baseurl}}/images/LesHouches2023.jpg">
+  <img align="center" width="95%" src="{{site.baseurl}}/images/LesHouches2023-small.jpg">
     <div>
       <span><font size="0.25">  <i>Les Houches, 2023</i></font></span >
     </div>  
 </div>
 <div style="clear:both"></div>
 
-### Available projects at UQ (PhD, masters, honours, and undergraduate)
+### Grants
 
-* Atomic physics as a probe of the Standard Model at low energies
-* Development of high-precision atomic structure methods
-* Theoretical characterisation of systems for the development of atomic clocks
-* Enlightening the search for dark matter (and other exotic physics)
-* For more details, see: [researchers.uq.edu.au/researcher/24237](https://researchers.uq.edu.au/researcher/24237)
-* Projects are flexible and other projects are available, contact me with any questions
-* Formal applications are made through the University of Queensland -- [smp.uq.edu.au/study/higher-degree-research](https://smp.uq.edu.au/study/higher-degree-research). Feel free to contact me directly with any questions
+* 2025 - ARC Discovery Project DP250103374: with Dr. Jacinda Ginges (UQ) and Dr. Natalia Oreshkina (MPI)
+  * _Nuclear structure and precision tests of fundamental physics in atoms_
+* 2023 - Big Questions Institute Fellowship
+  * _Are the laws of physics the same everywhere in the universe?_
+* 2023 - ARC Discovery Project DP230101685: with Dr. Jacinda Ginges (UQ) and Dr. Magdalena Kowalska (ISOLDE, CERN)
+  * _Probing new physics with atomic parity violation_
+* 2021 - ARC Early Career Research Award (DECRA) DE210101026
+  * _Atomic physics as a probe for fundamental physics and dark matter_
 
 ### Links
 
