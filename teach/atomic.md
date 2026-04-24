@@ -38,16 +38,18 @@ which are available in the library.
 * 02: [Numerical integration]({{ site.baseurl }}/teach/atomic/02-Atomic-Integration.pdf)
 * 03: [Multi-electron atoms]({{ site.baseurl }}/teach/atomic/03-Atomic-HartreeFock.pdf)
 
-## Project (first assignment from 2023)
+## Project
 
-* See blackboard for current up-to-date project sheets and worksheets
-* [Hartree-Fock for Li]({{ site.baseurl }}/teach/atomic/Project1-Atomic-2023.pdf)
+* The task is to implement Hartree-Fock for Lithium, in order to calculate the radiative lifetime of the first excited state of Li to 1% accuracy
+  * See blackboard for current up-to-date project sheets and worksheets
+
+<!-- * [Hartree-Fock for Li]({{ site.baseurl }}/teach/atomic/Project1-Atomic-2023.pdf) -->
 
 ## Select worksheets and basic C++ tutorials (from 2023)
 
 * See blackboard for current up-to-date project sheets and worksheets
 * 01: Introduction, getting up and running: [WS01-Introduction.pdf]({{ site.baseurl }}/teach/atomic/WS01-Introduction.pdf)
-  * Quick start guide: [QuickStart.pdf]({{ site.baseurl }}/teach/atomic/QuickStart.pdf)
+  <!-- * Quick start guide: [QuickStart.pdf]({{ site.baseurl }}/teach/atomic/QuickStart.pdf) -->
 * 02: Matrices, solving eigenvalue problem for Hydrogen [WS02-MatrixEigensystems.pdf]({{ site.baseurl }}/teach/atomic/WS02-MatrixEigensystems.pdf)
   * Arrays in C++: [Tutorial_Array-Vector.pdf]({{ site.baseurl }}/teach/atomic/Tutorial_Array-Vector.pdf)
   * Classes in C++: [Tutorial_Classes.pdf]({{ site.baseurl }}/teach/atomic/Tutorial_Classes.pdf)
