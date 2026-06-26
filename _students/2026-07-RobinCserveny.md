@@ -1,7 +1,7 @@
 ---
 name: "Robin Cserveny"
 university: "UQ and University of Vienna, Austria"
-type: "Masters"
+type: "PhD"
 current: true
 ---
 
