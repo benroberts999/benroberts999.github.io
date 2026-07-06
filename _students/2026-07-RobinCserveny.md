@@ -11,7 +11,7 @@ current: true
 
 Robin works on extending and applying computational methods for high-accuracy calculations of atomic systems and for the theoretical study of atomic systems for the development of atomic clocks.
 
-**Mater's Thesis:** Computational study of Ra<sup>+</sup> and Sr<sup>+</sup> for the development of optical atomic clocks
+**Masters Thesis:** Computational study of Ra<sup>+</sup> and Sr<sup>+</sup> for the development of optical atomic clocks
 
 ### Publications during masters
 
