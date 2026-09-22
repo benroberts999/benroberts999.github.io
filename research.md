@@ -16,13 +16,17 @@ Research in theoretical atomic physics and particle astrophysics. My work focuss
 
 ### Grants
 
-* 2025 - ARC Discovery Project DP250103374: with Dr. Jacinda Ginges (UQ) and Dr. Natalia Oreshkina (MPI)
+* 2026 - **Future Fellowship**, ARC Future Fellowship, FT260101154
+  * _The next frontier in fundamental physics: atoms as probes of the universe_
+* 2025 - **DP**, ARC Discovery Project, DP250103374
   * _Nuclear structure and precision tests of fundamental physics in atoms_
-* 2023 - Big Questions Institute Fellowship
+  * with Dr. Jacinda Ginges (UQ) and Dr. Natalia Oreshkina (MPI)
+* 2023 - **Big Questions Institute** Fellowship
   * _Are the laws of physics the same everywhere in the universe?_
-* 2023 - ARC Discovery Project DP230101685: with Dr. Jacinda Ginges (UQ) and Dr. Magdalena Kowalska (ISOLDE, CERN)
+* 2023 - **DP**, ARC Discovery Project, DP230101685: 
   * _Probing new physics with atomic parity violation_
-* 2021 - ARC Early Career Research Award (DECRA) DE210101026
+  * with Dr. Jacinda Ginges (UQ) and Dr. Magdalena Kowalska (ISOLDE, CERN)
+* 2021 - **DECRA**, ARC Early Career Research Award, DE210101026
   * _Atomic physics as a probe for fundamental physics and dark matter_
 
 ### Links

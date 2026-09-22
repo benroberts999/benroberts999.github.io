@@ -20,9 +20,9 @@ Ashlee works on developing methods for searching for dark matter and exotic phys
 
 ### Conferences/Worskhops during PhD
 
+* PPC2026 - International Conference on Particle Physics and Cosmology, UNSW, Sydney, 2026
 * ICPEAC, International Conference on Photonic, Electronic, and Atomic Collisions, Japan, 2025
 * Quantum Year National Tour - Poster Session, QUT, Brisbane, 2025
-  * Poster Prize runner up
 * Pint of Science outreach talk, _Atomic approaches to dethrone the hide-and-seek champion of the Universe_, Brisbane, 2025
 * AIP (Australian Institute of Physics) Congress (talk), Melbourne, 2024
 * APS April Meeting (talk, virtual), Sacremento USA, 2024
@@ -36,3 +36,14 @@ Ashlee works on developing methods for searching for dark matter and exotic phys
 * ACAMAR (Australia-China Consortium for Astrophysical Research) Meeting on Astroparticle Physics (talk), 2022
 * DAMOP (poster, virtual), 2022
 * AIP (Australian Institute of Physics) Summer Meeting (poster), QUT, 2021
+
+### Prizes/Awards
+
+* Quantum Year National Tour poster prize runner-up, QUT, Brisbane, 2025
+* Best Returning Physics Poster prize, UQ Mathematics and Physics poster day, 2022
+
+### Media Coverage
+
+* Interview for Spacetime (radio): Antimatter’s Cosmic Clue, Dark Matter Detection Breakthrough, Stuart Gary, 7 April 2025
+* Interview with _The Australian_: Stemming the tide of gender bias, Sian Powell, 5 March 2025
+* Cosmos (now ConnectSci) article: Atomic clocks and lasers could help find dark matter, Imma Perfetto, 9 February 2025

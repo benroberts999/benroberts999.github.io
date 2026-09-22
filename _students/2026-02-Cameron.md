@@ -10,6 +10,10 @@ Cameron works on probing for physics beyond the Standard Model by investigating 
 
 **Honours Thesis:** The atomic effects of new interactions
 
+### Publications during PhD
+
+* _Atomic structure calculations for constraining new electron-electron forces_, Cameron J. West, Benjamin M. Roberts, [arXiv:2608.26532](https://arxiv.org/abs/2608.26532)
+
 <br><br>
 
 <br><br>

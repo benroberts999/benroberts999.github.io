@@ -15,11 +15,16 @@ current: true
 Jack works on developing and extending high-precission atomic structure theory methods for applications in fundamental physics.
 In particular, for low-energy tests of the Standard Model, and searches for fundamental symmetry violations.
 
+**Honours Thesis:** Theoretical calculation of Stark-induced polarisabilities in heavy alkali atoms for low energy tests of the Standard Model
+
 ### Conferences/Worskhops during PhD
 
+* TH Institute on Quantum Sensing for Fundamental Physics, CERN, Switzerland, 2026
+* Quest of New Physics at the Precision Frontier, PTB Berlin, 2026
 * Nuclear and Particle Physics summer school, Sydney, 2026 (poster)
-  * Poster prize
 * AIP (Australian Institute of Physics) Summer Meeting (talk), Wollongong, 2025
 * Search for new physics with low-energy precision tests, Summer School, University of Groningen, NL, 2025
 
-**Honours Thesis:** Theoretical calculation of Stark-induced polarisabilities in heavy alkali atoms for low energy tests of the Standard Model
+### Prizes/Awards
+
+* Poster prize, Nuclear and Particle Physics summer school, Sydney, 2026
