@@ -18,7 +18,7 @@ Ashlee works on developing methods for searching for dark matter and exotic phys
 * _The neutrino fog for dark matter-electron scattering experiments_, B. Carew, A. R. Caddell, T. N. Maity, C. A. J. O'Hare, [Phys. Rev. D **109**, 083016 (2024)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.083016), [[arXiv:2312.04303](http://arxiv.org/abs/2312.04303)].
 * _Accurate electron-recoil ionization factors for dark matter direct detection in xenon, krypton, and argon_, A. R. Caddell, V. V. Flambaum, and B. M. Roberts, [Phys. Rev. D **108**, 083030 (2023)](https://link.aps.org/doi/10.1103/PhysRevD.108.083030), [[arXiv:2305.05125](http://arxiv.org/abs/2305.05125)].
 
-### Conferences/Worskhops during PhD
+### Conferences/Workshops during PhD
 
 * PPC2026 - International Conference on Particle Physics and Cosmology, UNSW, Sydney, 2026
 * ICPEAC, International Conference on Photonic, Electronic, and Atomic Collisions, Japan, 2025

@@ -17,6 +17,6 @@ Robin works on extending and applying computational methods for high-accuracy ca
 
 * _Theoretical characterisation of the Barium II and Radium II ions_, R. B. Cserveny and B. M. Roberts, [Phys. Rev. A **112**, 032816 (2025)](https://link.aps.org/doi/10.1103/1rtb-8ymc), [arXiv:2505.05230](http://arxiv.org/abs/2505.05230)
 
-### Conferences/Worskhops during masters
+### Conferences/Workshops during masters
 
 * AIP (Australian Institute of Physics) Summer Meeting (talk), ANU, 2023

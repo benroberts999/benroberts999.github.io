@@ -17,7 +17,7 @@ In particular, for low-energy tests of the Standard Model, and searches for fund
 
 **Honours Thesis:** Theoretical calculation of Stark-induced polarisabilities in heavy alkali atoms for low energy tests of the Standard Model
 
-### Conferences/Worskhops during PhD
+### Conferences/Workshops during PhD
 
 * TH Institute on Quantum Sensing for Fundamental Physics, CERN, Switzerland, 2026
 * Quest of New Physics at the Precision Frontier, PTB Berlin, 2026

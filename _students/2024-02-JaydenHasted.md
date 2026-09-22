@@ -21,7 +21,7 @@ Primary supervisor: Dr. Jacinda Ginges.
 
 * _Vacuum polarization corrections to hyperfine structure in many-electron atoms_, J. C. Hasted, C. J. Fairhall, O. R. Smits, B. M. Roberts, J. S. M. Ginges, [Phys. Rev. A **111**, 032812 (2025)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.032812); [[arXiv:2409.17979](http://arxiv.org/abs/2409.17979)]
 
-### Conferences/Worskhops during PhD
+### Conferences/Workshops during PhD
 
 * Nuclear and Particle Physics summer school, Sydney, 2026 (poster)
 * AIP (Australian Institute of Physics) Summer Meeting, Wollongong, 2025

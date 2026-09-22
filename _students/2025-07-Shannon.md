@@ -10,7 +10,7 @@ Shannon works on using atomic physics to probe nuclear structure, and for fundam
 
 Primary supervisor: Dr. Jacinda Ginges.
 
-### Conferences/Worskhops during PhD
+### Conferences/Workshops during PhD
 
 * Nuclear and Particle Physics summer school, Sydney, 2026
 * AIP (Australian Institute of Physics) Summer Meeting, Wollongong, 2025
