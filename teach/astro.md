@@ -8,11 +8,12 @@ permalink: /teaching/astro/
 
 **Lecture Notes: Thermal Freezeout and Particle Astrophysics section**
 
-* 01: [Intro to particle astrophysics: Thermal Freezeout]({{ site.baseurl }}/teach/astro/A-ThermalFreezeout.pdf)
+* [Selected topics in particle cosmology]({{ site.baseurl }}/teach/astro/ParticleCosmology-BMRoberts)
+ * BBN slides [here]({{ site.baseurl }}/teach/astro/05-BBN-slides.pdf)
+<!-- * 01: [Intro to particle astrophysics: Thermal Freezeout]({{ site.baseurl }}/teach/astro/A-ThermalFreezeout.pdf)
 * 02: [Weak decoupling, neutrinos, recombination]({{ site.baseurl }}/teach/astro/B-WeakDecoupling.pdf)
-* 03: [Big Bang Nucleosynthesis]({{ site.baseurl }}/teach/astro/C-BBN.pdf)
- * Slides with relevant plots for 02/03 [here]({{ site.baseurl }}/teach/astro/05-BBN-slides.pdf)
-* 04: [Baryogenesis]({{ site.baseurl }}/teach/astro/D-Baryogenesis.pdf)
+* 03: [Big Bang Nucleosynthesis]({{ site.baseurl }}/teach/astro/C-BBN.pdf) -->
+<!-- * 04: [Baryogenesis]({{ site.baseurl }}/teach/astro/D-Baryogenesis.pdf) -->
 
 **Lecture Slides: LCDM and Dark Matter section**
 
