@@ -15,10 +15,6 @@ permalink: /teaching/astro/
  * Weak decoupling, neutrinos and recombination
  * Big bang nucleosynthesis
  * BBN slides [here]({{ site.baseurl }}/teach/astro/05-BBN-slides.pdf)
-<!-- * 01: [Intro to particle astrophysics: Thermal Freezeout]({{ site.baseurl }}/teach/astro/A-ThermalFreezeout.pdf)
-* 02: [Weak decoupling, neutrinos, recombination]({{ site.baseurl }}/teach/astro/B-WeakDecoupling.pdf)
-* 03: [Big Bang Nucleosynthesis]({{ site.baseurl }}/teach/astro/C-BBN.pdf) -->
-<!-- * 04: [Baryogenesis]({{ site.baseurl }}/teach/astro/D-Baryogenesis.pdf) -->
 
 **Lecture Slides: LCDM and Dark Matter section**
 
