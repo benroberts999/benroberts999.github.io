@@ -8,7 +8,7 @@ permalink: /teaching/astro/
 
 **Lecture Notes: Thermal Freezeout and Particle Astrophysics section**
 
-* [Selected topics in particle cosmology]({{ site.baseurl }}/teach/astro/ParticleCosmology-BMRoberts)
+* [Selected topics in particle cosmology]({{ site.baseurl }}/teach/astro/ParticleCosmology-BMRoberts.pdf)
  * BBN slides [here]({{ site.baseurl }}/teach/astro/05-BBN-slides.pdf)
 <!-- * 01: [Intro to particle astrophysics: Thermal Freezeout]({{ site.baseurl }}/teach/astro/A-ThermalFreezeout.pdf)
 * 02: [Weak decoupling, neutrinos, recombination]({{ site.baseurl }}/teach/astro/B-WeakDecoupling.pdf)
